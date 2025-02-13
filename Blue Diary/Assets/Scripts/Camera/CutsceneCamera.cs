@@ -1,12 +1,9 @@
-using System;
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class CutsceneCamera : MonoBehaviour
 {
     public CameraController cam;
-    public GameObject camera;
+    public GameObject cameraObj;
     public GameObject target;
     public float minX;
     public float maxX;
@@ -23,7 +20,7 @@ public class CutsceneCamera : MonoBehaviour
 
     void Start()
     {
-        camera = this.gameObject;
+        cameraObj = this.gameObject;
         isEnabled = false;
         targetIndex = 0;
         target = targets[targetIndex];
@@ -62,23 +59,23 @@ public class CutsceneCamera : MonoBehaviour
 
     public void GoPoint()
     {
-        if (Mathf.Abs(camera.transform.position.x - target.transform.position.x) >= maxX)
+        if (Mathf.Abs(cameraObj.transform.position.x - target.transform.position.x) >= maxX)
         {
             Vector3 pos = new Vector3();
             pos.Set(target.transform.position.x, transform.position.y, transform.position.z);
-            camera.transform.position = Vector3.Lerp(transform.position, pos, followspeed * Time.deltaTime);
+            cameraObj.transform.position = Vector3.Lerp(transform.position, pos, followspeed * Time.deltaTime);
         }
-        if (Mathf.Abs(camera.transform.position.y - target.transform.position.y) >= maxY)
+        if (Mathf.Abs(cameraObj.transform.position.y - target.transform.position.y) >= maxY)
         {
             Vector3 pos = new Vector3();
             pos.Set(transform.position.x, target.transform.position.y - minY, transform.position.z);
-            camera.transform.position = Vector3.Lerp(transform.position, pos, followspeed * Time.deltaTime);
+            cameraObj.transform.position = Vector3.Lerp(transform.position, pos, followspeed * Time.deltaTime);
         }
     }
     public void DirectPoint()
     {
         Vector3 pos = new Vector3(); 
         pos.Set(target.transform.position.x, target.transform.position.y, transform.position.z);
-        camera.transform.position = Vector3.Lerp(transform.position, pos, followspeed * Time.deltaTime);
+        cameraObj.transform.position = Vector3.Lerp(transform.position, pos, followspeed * Time.deltaTime);
     }
 }

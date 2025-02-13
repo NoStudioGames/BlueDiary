@@ -56,7 +56,17 @@ MonoBehaviour:
       - rid: 7851071816105721948
       - rid: 7851071816105721949
     m_RuntimeSettings:
-      m_List: []
+      m_List:
+      - rid: 7851071816105721930
+      - rid: 7851071816105721931
+      - rid: 7851071816105721932
+      - rid: 7851071816105721934
+      - rid: 7851071816105721935
+      - rid: 7851071816105721936
+      - rid: 7851071816105721937
+      - rid: 7851071816105721941
+      - rid: 7851071816105721945
+      - rid: 7851071816105721948
   m_AssetVersion: 8
   m_ObsoleteDefaultVolumeProfile: {fileID: 0}
   m_RenderingLayerNames:
@@ -126,7 +136,7 @@ MonoBehaviour:
       type: {class: RenderGraphSettings, ns: UnityEngine.Rendering.Universal, asm: Unity.RenderPipelines.Universal.Runtime}
       data:
         m_Version: 0
-        m_EnableRenderCompatibilityMode: 1
+        m_EnableRenderCompatibilityMode: 0
     - rid: 7851071816105721933
       type: {class: UniversalRenderPipelineEditorAssets, ns: UnityEngine.Rendering.Universal, asm: Unity.RenderPipelines.Universal.Runtime}
       data:

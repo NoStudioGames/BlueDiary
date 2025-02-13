@@ -1,6 +1,5 @@
 using UnityEngine;
 using System.Collections;
-using UnityEngine.U2D.Animation;
 
 public class CameraShake : MonoBehaviour
 {
