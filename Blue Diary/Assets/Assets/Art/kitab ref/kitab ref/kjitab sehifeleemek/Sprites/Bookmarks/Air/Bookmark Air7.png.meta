@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bookmark Air7_0: 8778305521046545778
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

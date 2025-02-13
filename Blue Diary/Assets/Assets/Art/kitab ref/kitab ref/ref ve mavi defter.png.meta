@@ -259,7 +259,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ref ve mavi defter_0: -409734087568241782
+      ref ve mavi defter_1: 2577488357201198326
+      ref ve mavi defter_2: 7328528018516471312
+      ref ve mavi defter_3: -869436165957925708
+      ref ve mavi defter_4: 6941508323411707709
+      ref ve mavi defter_5: -3705218648802842069
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

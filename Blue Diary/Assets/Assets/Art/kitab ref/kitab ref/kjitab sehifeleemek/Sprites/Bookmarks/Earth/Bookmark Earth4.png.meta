@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bookmark Earth4_0: -9188774212049889788
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

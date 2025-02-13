@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bookmark Water7_0: -8388730762610857492
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
