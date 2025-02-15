@@ -47,6 +47,7 @@ public class ButtonSelection : MonoBehaviour
     }
     private void Update() {
         currSelectedButton = eventSystem.currentSelectedGameObject;
+        
         if(Input.GetMouseButtonDown(0)){
             if(currSelectedButton){
                 if(currSelectedButton != selectedButton){
@@ -62,6 +63,10 @@ public class ButtonSelection : MonoBehaviour
                 eventSystem.SetSelectedGameObject(selectedButton);
             }
         }
+        if(Input.GetMouseButtonDown(1)){
+            ResetButtons();
+        }
+        if(!currSelectedButton) return;
         if(currSelectedButton.gameObject.GetComponent<Button>())
         {
             currSelectedButton.GetComponentInChildren<TextMeshProUGUI>().color = selected;
@@ -72,6 +77,13 @@ public class ButtonSelection : MonoBehaviour
             {
                 buttons[i].GetComponentInChildren<TextMeshProUGUI>().color = notSelected;
             }
+        }
+    }
+
+    public void ResetButtons(){
+        for(int i = 0; i<buttons.Length; i++)
+        {
+            buttons[i].GetComponentInChildren<TextMeshProUGUI>().color = notSelected;
         }
     }
 }
