@@ -45,6 +45,7 @@ public class CutsceneCamera : MonoBehaviour
                 target = targets[targetIndex];
             }
             DirectPoint();
+            cam.target.GetComponent<PlayerMovement>().animator.SetFloat("speed", 0);
         }
         for (int i = 0; i < translator.Length; i++)
         {
