@@ -1,10 +1,12 @@
 using UnityEngine;
 
-public class MinigameTrigger : MonoBehaviour
+public class PutToPlace : MonoBehaviour
 {
     public Interract interract;
     public GameObject minigamePanel;
     public bool isDone;
+    public GameObject part;
+    public GameObject back;
     void Start()
     {
         interract = gameObject.GetComponent<Interract>();
@@ -13,9 +15,14 @@ public class MinigameTrigger : MonoBehaviour
 
     void Update()
     {
-        if (interract.isOn)
+        if (interract.isOn && !isDone)
         {
             minigamePanel.SetActive(true);
+            if (part.transform.position == back.transform.position)
+            {
+                interract.isOn = false;
+                isDone = true;
+            }
         }
         else
         {
