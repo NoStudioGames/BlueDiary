@@ -1,247 +1,247 @@
 fileFormatVersion: 2
-guid: 8e0fc754766e0484a84d467d9db98e98
+guid: 03487abca59ad6642bfcfc1089a3cffb
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6299341535632718894
-    second: movlud yeni anima_0
+      213: 4735733756498798316
+    second: movlud sonson_0
   - first:
-      213: 4437686995483489329
-    second: movlud yeni anima_1
+      213: 6227189801855633673
+    second: movlud sonson_1
   - first:
-      213: -2163095542879978594
-    second: movlud yeni anima_2
+      213: 415398820811964644
+    second: movlud sonson_2
   - first:
-      213: -8360482261414553953
-    second: movlud yeni anima_3
+      213: -9088231619330641
+    second: movlud sonson_3
   - first:
-      213: 22762412377275340
-    second: movlud yeni anima_4
+      213: 9161427751820278680
+    second: movlud sonson_4
   - first:
-      213: 5590304883888604090
-    second: movlud yeni anima_5
+      213: -1022927169637824770
+    second: movlud sonson_5
   - first:
-      213: -2444757715059022549
-    second: movlud yeni anima_6
+      213: 2505351649853755279
+    second: movlud sonson_6
   - first:
-      213: 1119108393820430788
-    second: movlud yeni anima_7
+      213: -444799432726398162
+    second: movlud sonson_7
   - first:
-      213: 4890214114027763064
-    second: movlud yeni anima_8
+      213: 4752559227046117002
+    second: movlud sonson_8
   - first:
-      213: 3215169438076296924
-    second: movlud yeni anima_9
+      213: 4039409048151480503
+    second: movlud sonson_9
   - first:
-      213: 5399660906969273754
-    second: movlud yeni anima_10
+      213: 7687556006313488721
+    second: movlud sonson_10
   - first:
-      213: -3634258996333861155
-    second: movlud yeni anima_11
+      213: 1918217255251913648
+    second: movlud sonson_11
   - first:
-      213: 6723340761545619315
-    second: movlud yeni anima_12
+      213: -8453885167196199609
+    second: movlud sonson_12
   - first:
-      213: -4108482925993586982
-    second: movlud yeni anima_13
+      213: -774282031837575521
+    second: movlud sonson_13
   - first:
-      213: -7889841158238356122
-    second: movlud yeni anima_14
+      213: -957293371521007974
+    second: movlud sonson_14
   - first:
-      213: -5282429837964503633
-    second: movlud yeni anima_15
+      213: 2090274084839778444
+    second: movlud sonson_15
   - first:
-      213: 1872116533497927253
-    second: movlud yeni anima_16
+      213: -227872816464214972
+    second: movlud sonson_16
   - first:
-      213: -854248032935745605
-    second: movlud yeni anima_17
+      213: 8031757991815763661
+    second: movlud sonson_17
   - first:
-      213: 5206927397225739995
-    second: movlud yeni anima_18
+      213: -961227514323938070
+    second: movlud sonson_18
   - first:
-      213: -7424003962958410206
-    second: movlud yeni anima_19
+      213: -6022361723398982286
+    second: movlud sonson_19
   - first:
-      213: -5520178664064928491
-    second: movlud yeni anima_20
+      213: 1096227820054202293
+    second: movlud sonson_20
   - first:
-      213: 6768838110253825425
-    second: movlud yeni anima_21
+      213: 6372839572571109380
+    second: movlud sonson_21
   - first:
-      213: -6235048941175116323
-    second: movlud yeni anima_22
+      213: -2553726870080353241
+    second: movlud sonson_22
   - first:
-      213: 581896754548846518
-    second: movlud yeni anima_23
+      213: 6236378161618857710
+    second: movlud sonson_23
   - first:
-      213: 1456395345426157525
-    second: movlud yeni anima_24
+      213: 522180599729380782
+    second: movlud sonson_24
   - first:
-      213: -7913837163266916467
-    second: movlud yeni anima_25
+      213: 2318543455661563930
+    second: movlud sonson_25
   - first:
-      213: 6924009881503427881
-    second: movlud yeni anima_26
+      213: -3293068887903327832
+    second: movlud sonson_26
   - first:
-      213: -7772342116366686708
-    second: movlud yeni anima_27
+      213: 6276233048493356232
+    second: movlud sonson_27
   - first:
-      213: -5420258900656486247
-    second: movlud yeni anima_28
+      213: 6135159378608522616
+    second: movlud sonson_28
   - first:
-      213: 1948684084612136108
-    second: movlud yeni anima_29
+      213: -1958019377295483568
+    second: movlud sonson_29
   - first:
-      213: -8438276924860624786
-    second: movlud yeni anima_30
+      213: -2266918739177031867
+    second: movlud sonson_30
   - first:
-      213: 8348056253793451153
-    second: movlud yeni anima_31
+      213: -1950521836430848629
+    second: movlud sonson_31
   - first:
-      213: -5437915091039159374
-    second: movlud yeni anima_32
+      213: -5018381970866201549
+    second: movlud sonson_32
   - first:
-      213: 7997272629850053763
-    second: movlud yeni anima_33
+      213: -6152998331359981507
+    second: movlud sonson_33
   - first:
-      213: 4630631174905463102
-    second: movlud yeni anima_34
+      213: -8067221251472842032
+    second: movlud sonson_34
   - first:
-      213: 4054521160939446357
-    second: movlud yeni anima_35
+      213: 2461717990378018319
+    second: movlud sonson_35
   - first:
-      213: -2399325513920316787
-    second: movlud yeni anima_36
+      213: 126185469396751561
+    second: movlud sonson_36
   - first:
-      213: 8454467701727280835
-    second: movlud yeni anima_37
+      213: -6589119167141804191
+    second: movlud sonson_37
   - first:
-      213: 7962584816934203291
-    second: movlud yeni anima_38
+      213: -4319895294835068744
+    second: movlud sonson_38
   - first:
-      213: 3979575129360161625
-    second: movlud yeni anima_39
+      213: -1632374523207030811
+    second: movlud sonson_39
   - first:
-      213: -5439665299154851707
-    second: movlud yeni anima_40
+      213: 642704287269874293
+    second: movlud sonson_40
   - first:
-      213: -3121825108004237628
-    second: movlud yeni anima_41
+      213: 3878158146349237958
+    second: movlud sonson_41
   - first:
-      213: -8679052071309470817
-    second: movlud yeni anima_42
+      213: 6377155668217727943
+    second: movlud sonson_42
   - first:
-      213: -1939989792858185875
-    second: movlud yeni anima_43
+      213: -2879027441226178670
+    second: movlud sonson_43
   - first:
-      213: -8140587015944219998
-    second: movlud yeni anima_44
+      213: 598022062837790726
+    second: movlud sonson_44
   - first:
-      213: -4135117932729357250
-    second: movlud yeni anima_45
+      213: -5228082374967576377
+    second: movlud sonson_45
   - first:
-      213: 1746931352880283642
-    second: movlud yeni anima_46
+      213: 892450016639992768
+    second: movlud sonson_46
   - first:
-      213: 940275287428592672
-    second: movlud yeni anima_47
+      213: -6787764229644378370
+    second: movlud sonson_47
   - first:
-      213: 8038817390086550204
-    second: movlud yeni anima_48
+      213: -8506162642974003643
+    second: movlud sonson_48
   - first:
-      213: -3444679778199504707
-    second: movlud yeni anima_49
+      213: 2381277279174435937
+    second: movlud sonson_49
   - first:
-      213: -4394455856859068606
-    second: movlud yeni anima_50
+      213: 3062271779949977183
+    second: movlud sonson_50
   - first:
-      213: -8029710579114467202
-    second: movlud yeni anima_51
+      213: -8548703162789686894
+    second: movlud sonson_51
   - first:
-      213: 3920242728790026897
-    second: movlud yeni anima_52
+      213: 6689883058901288285
+    second: movlud sonson_52
   - first:
-      213: 8545595824791623218
-    second: movlud yeni anima_53
+      213: 3328444572826655119
+    second: movlud sonson_53
   - first:
-      213: 3478817869823548437
-    second: movlud yeni anima_54
+      213: -584880527062988783
+    second: movlud sonson_54
   - first:
-      213: -2075197940148776179
-    second: movlud yeni anima_55
+      213: 543541412905204162
+    second: movlud sonson_55
   - first:
-      213: -6434281020719594019
-    second: movlud yeni anima_56
+      213: -5329236941081279611
+    second: movlud sonson_56
   - first:
-      213: 1497801056489394571
-    second: movlud yeni anima_57
+      213: -2573631869255277362
+    second: movlud sonson_57
   - first:
-      213: 270821000601305279
-    second: movlud yeni anima_58
+      213: 3281965389748522272
+    second: movlud sonson_58
   - first:
-      213: -1957581182266295692
-    second: movlud yeni anima_59
+      213: -3934466315446714187
+    second: movlud sonson_59
   - first:
-      213: -389161840918890113
-    second: movlud yeni anima_60
+      213: -4307473730923112139
+    second: movlud sonson_60
   - first:
-      213: 4957371834359568917
-    second: movlud yeni anima_61
+      213: 7812682682722310397
+    second: movlud sonson_61
   - first:
-      213: -5642362990794137506
-    second: movlud yeni anima_62
+      213: 5836981240247583782
+    second: movlud sonson_62
   - first:
-      213: -6778288278630221241
-    second: movlud yeni anima_63
+      213: 6367931005721712697
+    second: movlud sonson_63
   - first:
-      213: 3931983071509989748
-    second: movlud yeni anima_64
+      213: -7989832782936638345
+    second: movlud sonson_64
   - first:
-      213: 3711509063865086649
-    second: movlud yeni anima_65
+      213: -8454766654442147293
+    second: movlud sonson_65
   - first:
-      213: -4565299132312965145
-    second: movlud yeni anima_66
+      213: 8021786456644179342
+    second: movlud sonson_66
   - first:
-      213: 2209522360390599595
-    second: movlud yeni anima_67
+      213: 8560849607485819034
+    second: movlud sonson_67
   - first:
-      213: 3536130593945703166
-    second: movlud yeni anima_68
+      213: -7046786372278970734
+    second: movlud sonson_68
   - first:
-      213: 3919692834546883447
-    second: movlud yeni anima_69
+      213: -3257124654770093050
+    second: movlud sonson_69
   - first:
-      213: -7907574610777456295
-    second: movlud yeni anima_70
+      213: -1824515821691891062
+    second: movlud sonson_70
   - first:
-      213: 6716087991319045467
-    second: movlud yeni anima_71
+      213: 3907494035737488268
+    second: movlud sonson_71
   - first:
-      213: -878322473908622715
-    second: movlud yeni anima_72
+      213: 8874918312760464200
+    second: movlud sonson_72
   - first:
-      213: -8275399068455368308
-    second: movlud yeni anima_73
+      213: 8175054987529955081
+    second: movlud sonson_73
   - first:
-      213: 5032088476721518297
-    second: movlud yeni anima_74
+      213: 3699018708856205082
+    second: movlud sonson_74
   - first:
-      213: 6186514658317867547
-    second: movlud yeni anima_75
+      213: -846540962731528243
+    second: movlud sonson_75
   - first:
-      213: 5934916180400817577
-    second: movlud yeni anima_76
+      213: 402534036995815079
+    second: movlud sonson_76
   - first:
-      213: -7983450974379288130
-    second: movlud yeni anima_77
+      213: -1052303545470518064
+    second: movlud sonson_77
   - first:
-      213: -8000885408120905195
-    second: movlud yeni anima_78
+      213: 8125270524504916731
+    second: movlud sonson_78
   - first:
-      213: 3760351913461353457
-    second: movlud yeni anima_79
+      213: -892961849307075043
+    second: movlud sonson_79
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -350,13 +350,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: movlud yeni anima_0
+      name: movlud sonson_0
       rect:
         serializedVersion: 2
-        x: 2
-        y: 447
-        width: 29
-        height: 54
+        x: 94
+        y: 2239
+        width: 137
+        height: 262
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -365,20 +365,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e2c704650c1cb6750800000000000000
-      internalID: 6299341535632718894
+      spriteID: ce6efe2b2c4b8b140800000000000000
+      internalID: 4735733756498798316
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: movlud yeni anima_1
+      name: movlud sonson_1
       rect:
         serializedVersion: 2
-        x: 34
-        y: 447
-        width: 29
-        height: 55
+        x: 414
+        y: 2239
+        width: 137
+        height: 267
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -387,20 +387,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 134f92e7fc4d59d30800000000000000
-      internalID: 4437686995483489329
+      spriteID: 9094a88b12c6b6650800000000000000
+      internalID: 6227189801855633673
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: movlud yeni anima_2
+      name: movlud sonson_2
       rect:
         serializedVersion: 2
-        x: 65
-        y: 447
-        width: 31
-        height: 55
+        x: 729
+        y: 2239
+        width: 147
+        height: 267
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -409,20 +409,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e9b786770142bf1e0800000000000000
-      internalID: -2163095542879978594
+      spriteID: 4e00d92d60bc3c500800000000000000
+      internalID: 415398820811964644
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: movlud yeni anima_3
+      name: movlud sonson_3
       rect:
         serializedVersion: 2
-        x: 97
-        y: 447
-        width: 31
-        height: 55
+        x: 1049
+        y: 2239
+        width: 147
+        height: 267
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -431,20 +431,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f965e61dda999fb80800000000000000
-      internalID: -8360482261414553953
+      spriteID: fad71be2d46bfdff0800000000000000
+      internalID: -9088231619330641
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: movlud yeni anima_4
+      name: movlud sonson_4
       rect:
         serializedVersion: 2
-        x: 130
-        y: 447
-        width: 29
-        height: 55
+        x: 1374
+        y: 2239
+        width: 137
+        height: 267
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -453,20 +453,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ccb7aff1b4ed05000800000000000000
-      internalID: 22762412377275340
+      spriteID: 89b37ae300ee32f70800000000000000
+      internalID: 9161427751820278680
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: movlud yeni anima_5
+      name: movlud sonson_5
       rect:
         serializedVersion: 2
-        x: 162
-        y: 447
-        width: 29
-        height: 54
+        x: 1694
+        y: 2239
+        width: 137
+        height: 262
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -475,20 +475,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ab3cf465ca0c49d40800000000000000
-      internalID: 5590304883888604090
+      spriteID: ef644aea825ddc1f0800000000000000
+      internalID: -1022927169637824770
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: movlud yeni anima_6
+      name: movlud sonson_6
       rect:
         serializedVersion: 2
-        x: 194
-        y: 447
-        width: 29
-        height: 53
+        x: 2014
+        y: 2239
+        width: 137
+        height: 257
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -497,20 +497,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b25e200afc9721ed0800000000000000
-      internalID: -2444757715059022549
+      spriteID: f8fc8f63d0cc4c220800000000000000
+      internalID: 2505351649853755279
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: movlud yeni anima_7
+      name: movlud sonson_7
       rect:
         serializedVersion: 2
-        x: 226
-        y: 447
-        width: 29
-        height: 54
+        x: 2334
+        y: 2239
+        width: 137
+        height: 262
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -519,20 +519,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4c123d6a72fd78f00800000000000000
-      internalID: 1119108393820430788
+      spriteID: e2b3c08c541c3d9f0800000000000000
+      internalID: -444799432726398162
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: movlud yeni anima_8
+      name: movlud sonson_8
       rect:
         serializedVersion: 2
-        x: 258
-        y: 447
-        width: 29
-        height: 54
+        x: 2654
+        y: 2239
+        width: 137
+        height: 262
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -541,20 +541,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 875f936c3d78dd340800000000000000
-      internalID: 4890214114027763064
+      spriteID: a8eb616df6b74f140800000000000000
+      internalID: 4752559227046117002
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: movlud yeni anima_9
+      name: movlud sonson_9
       rect:
         serializedVersion: 2
-        x: 290
-        y: 447
-        width: 29
-        height: 54
+        x: 2974
+        y: 2239
+        width: 137
+        height: 262
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -563,20 +563,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cdeda39b1939e9c20800000000000000
-      internalID: 3215169438076296924
+      spriteID: 7b85199a02dde0830800000000000000
+      internalID: 4039409048151480503
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: movlud yeni anima_10
+      name: movlud sonson_10
       rect:
         serializedVersion: 2
-        x: 2
-        y: 383
-        width: 29
-        height: 54
+        x: 94
+        y: 1919
+        width: 137
+        height: 262
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -585,20 +585,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a95977b7cf27fea40800000000000000
-      internalID: 5399660906969273754
+      spriteID: 1517c33157fafaa60800000000000000
+      internalID: 7687556006313488721
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: movlud yeni anima_11
+      name: movlud sonson_11
       rect:
         serializedVersion: 2
-        x: 34
-        y: 383
-        width: 29
-        height: 55
+        x: 414
+        y: 1919
+        width: 137
+        height: 262
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -607,20 +607,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: dd6a0cda2b4809dc0800000000000000
-      internalID: -3634258996333861155
+      spriteID: 0bba0553e60ee9a10800000000000000
+      internalID: 1918217255251913648
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: movlud yeni anima_12
+      name: movlud sonson_12
       rect:
         serializedVersion: 2
-        x: 65
-        y: 383
-        width: 31
-        height: 55
+        x: 734
+        y: 1919
+        width: 137
+        height: 262
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -629,20 +629,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 377b4d30dca1e4d50800000000000000
-      internalID: 6723340761545619315
+      spriteID: 745a3552b34cdaa80800000000000000
+      internalID: -8453885167196199609
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: movlud yeni anima_13
+      name: movlud sonson_13
       rect:
         serializedVersion: 2
-        x: 97
-        y: 383
-        width: 31
-        height: 54
+        x: 1054
+        y: 1919
+        width: 137
+        height: 262
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -651,20 +651,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ade0566eb8cbbf6c0800000000000000
-      internalID: -4108482925993586982
+      spriteID: f968a5828923145f0800000000000000
+      internalID: -774282031837575521
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: movlud yeni anima_14
+      name: movlud sonson_14
       rect:
         serializedVersion: 2
-        x: 130
-        y: 383
-        width: 29
-        height: 53
+        x: 1374
+        y: 1919
+        width: 137
+        height: 257
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -673,20 +673,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 66d32fcc447a18290800000000000000
-      internalID: -7889841158238356122
+      spriteID: a9e77a420c207b2f0800000000000000
+      internalID: -957293371521007974
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: movlud yeni anima_15
+      name: movlud sonson_15
       rect:
         serializedVersion: 2
-        x: 162
-        y: 383
-        width: 29
-        height: 54
+        x: 1694
+        y: 1919
+        width: 137
+        height: 262
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -695,20 +695,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fa59335cc0a01b6b0800000000000000
-      internalID: -5282429837964503633
+      spriteID: c8864169435220d10800000000000000
+      internalID: 2090274084839778444
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: movlud yeni anima_16
+      name: movlud sonson_16
       rect:
         serializedVersion: 2
-        x: 194
-        y: 383
-        width: 29
-        height: 54
+        x: 2014
+        y: 1919
+        width: 137
+        height: 262
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -717,20 +717,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 556974d71181bf910800000000000000
-      internalID: 1872116533497927253
+      spriteID: 444cea871ee66dcf0800000000000000
+      internalID: -227872816464214972
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: movlud yeni anima_17
+      name: movlud sonson_17
       rect:
         serializedVersion: 2
-        x: 226
-        y: 383
-        width: 29
-        height: 54
+        x: 2334
+        y: 1919
+        width: 137
+        height: 262
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -739,20 +739,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bb7e9c6a0f91524f0800000000000000
-      internalID: -854248032935745605
+      spriteID: dc65518e659867f60800000000000000
+      internalID: 8031757991815763661
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: movlud yeni anima_18
+      name: movlud sonson_18
       rect:
         serializedVersion: 2
-        x: 258
-        y: 383
-        width: 29
-        height: 54
+        x: 2654
+        y: 1919
+        width: 137
+        height: 262
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -761,20 +761,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bd6b3ea51e8b24840800000000000000
-      internalID: 5206927397225739995
+      spriteID: ae4d3642ba809a2f0800000000000000
+      internalID: -961227514323938070
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: movlud yeni anima_19
+      name: movlud sonson_19
       rect:
         serializedVersion: 2
-        x: 290
-        y: 383
-        width: 29
-        height: 54
+        x: 2974
+        y: 1919
+        width: 137
+        height: 262
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -783,20 +783,900 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 22e85c0dab3a8f890800000000000000
-      internalID: -7424003962958410206
+      spriteID: 275f4ef9be54c6ca0800000000000000
+      internalID: -6022361723398982286
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: movlud yeni anima_20
+      name: movlud sonson_20
       rect:
         serializedVersion: 2
-        x: 4
+        x: 104
+        y: 1599
+        width: 102
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b74b3fe465963f00800000000000000
+      internalID: 1096227820054202293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud sonson_21
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1599
+        width: 102
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40837a593dfd07850800000000000000
+      internalID: 6372839572571109380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud sonson_22
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1599
+        width: 102
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c8d7f11f65f8cd0800000000000000
+      internalID: -2553726870080353241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud sonson_23
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 1599
+        width: 102
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeeab4075e01c8650800000000000000
+      internalID: 6236378161618857710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud sonson_24
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 1599
+        width: 102
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead58732d782f3700800000000000000
+      internalID: 522180599729380782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud sonson_25
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 1599
+        width: 102
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10a30f1dfe1d2020800000000000000
+      internalID: 2318543455661563930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud sonson_26
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 1599
+        width: 102
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9a1ab3b4bac42d0800000000000000
+      internalID: -3293068887903327832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud sonson_27
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 1599
+        width: 102
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4730764b8a91750800000000000000
+      internalID: 6276233048493356232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud sonson_28
+      rect:
+        serializedVersion: 2
+        x: 2664
+        y: 1599
+        width: 102
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8750e5a03f6742550800000000000000
+      internalID: 6135159378608522616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud sonson_29
+      rect:
+        serializedVersion: 2
+        x: 2984
+        y: 1599
+        width: 102
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d98f810c7b3d4e0800000000000000
+      internalID: -1958019377295483568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud sonson_30
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1279
+        width: 102
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5473da8da694a80e0800000000000000
+      internalID: -2266918739177031867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud sonson_31
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1279
+        width: 102
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d85ec59ba5ee4e0800000000000000
+      internalID: -1950521836430848629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud sonson_32
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 1279
+        width: 102
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c9b4f9f202b5ab0800000000000000
+      internalID: -5018381970866201549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud sonson_33
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1279
+        width: 102
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3097bb1e982c9aa0800000000000000
+      internalID: -6152998331359981507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud sonson_34
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 1279
+        width: 102
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2aa7583097b0090800000000000000
+      internalID: -8067221251472842032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud sonson_35
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 1279
+        width: 102
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f069ba13877c92220800000000000000
+      internalID: 2461717990378018319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud sonson_36
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 1279
+        width: 102
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c4953f040d40c100800000000000000
+      internalID: 126185469396751561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud sonson_37
+      rect:
+        serializedVersion: 2
+        x: 2354
+        y: 1279
+        width: 102
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1678bc3370fbe84a0800000000000000
+      internalID: -6589119167141804191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud sonson_38
+      rect:
+        serializedVersion: 2
+        x: 2674
+        y: 1279
+        width: 102
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0797cfd16ac04c0800000000000000
+      internalID: -4319895294835068744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud sonson_39
+      rect:
+        serializedVersion: 2
+        x: 2994
+        y: 1279
+        width: 102
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7e8d31504a859e0800000000000000
+      internalID: -1632374523207030811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud sonson_40
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 959
+        width: 102
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a6752e4285be800800000000000000
+      internalID: 642704287269874293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud sonson_41
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 959
+        width: 102
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c60fe7694cf1d530800000000000000
+      internalID: 3878158146349237958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud sonson_42
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 959
+        width: 102
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb8c79ea45308850800000000000000
+      internalID: 6377155668217727943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud sonson_43
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 959
+        width: 102
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f9c13cbc3ab08d0800000000000000
+      internalID: -2879027441226178670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud sonson_44
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 959
+        width: 102
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608fa4fc5e99c4800800000000000000
+      internalID: 598022062837790726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud sonson_45
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 959
+        width: 102
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8b39f87ce1277b0800000000000000
+      internalID: -5228082374967576377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud sonson_46
+      rect:
+        serializedVersion: 2
+        x: 2029
+        y: 959
+        width: 102
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c34e9dcf8e926c00800000000000000
+      internalID: 892450016639992768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud sonson_47
+      rect:
+        serializedVersion: 2
+        x: 2334
+        y: 959
+        width: 112
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe91f075640dc1a0800000000000000
+      internalID: -6787764229644378370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud sonson_48
+      rect:
+        serializedVersion: 2
+        x: 2664
+        y: 959
+        width: 102
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e26dfc42a04f980800000000000000
+      internalID: -8506162642974003643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud sonson_49
+      rect:
+        serializedVersion: 2
+        x: 2979
+        y: 959
+        width: 102
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164a6e0a11ffb0120800000000000000
+      internalID: 2381277279174435937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud sonson_50
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 639
+        width: 102
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e1f9195ff5f7a20800000000000000
+      internalID: 3062271779949977183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud sonson_51
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 639
+        width: 102
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29199a334c7ec5980800000000000000
+      internalID: -8548703162789686894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud sonson_52
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 639
+        width: 102
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5507b2923d37dc50800000000000000
+      internalID: 6689883058901288285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud sonson_53
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 639
+        width: 102
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89d8e144b2013e20800000000000000
+      internalID: 3328444572826655119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud sonson_54
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 639
+        width: 102
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1180e5c624612e7f0800000000000000
+      internalID: -584880527062988783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud sonson_55
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 639
+        width: 102
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9bde4090c0b8700800000000000000
+      internalID: 543541412905204162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud sonson_56
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 639
+        width: 102
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58306f2dc3fba06b0800000000000000
+      internalID: -5329236941081279611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud sonson_57
+      rect:
+        serializedVersion: 2
+        x: 2354
+        y: 639
+        width: 112
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec42a6a537f984cd0800000000000000
+      internalID: -2573631869255277362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud sonson_58
+      rect:
+        serializedVersion: 2
+        x: 2674
+        y: 639
+        width: 102
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d46152222eb8d20800000000000000
+      internalID: 3281965389748522272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud sonson_59
+      rect:
+        serializedVersion: 2
+        x: 2989
+        y: 639
+        width: 102
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b00f075bb7f569c0800000000000000
+      internalID: -3934466315446714187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud sonson_60
+      rect:
+        serializedVersion: 2
+        x: 94
         y: 319
-        width: 22
-        height: 54
+        width: 137
+        height: 262
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -805,20 +1685,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 51538bf80c26463b0800000000000000
-      internalID: -5520178664064928491
+      spriteID: 5395005b677c834c0800000000000000
+      internalID: -4307473730923112139
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: movlud yeni anima_21
+      name: movlud sonson_61
       rect:
         serializedVersion: 2
-        x: 36
+        x: 429
         y: 319
-        width: 22
-        height: 54
+        width: 132
+        height: 267
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -827,20 +1707,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 19d3ecff56ebfed50800000000000000
-      internalID: 6768838110253825425
+      spriteID: df8528ea1893c6c60800000000000000
+      internalID: 7812682682722310397
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: movlud yeni anima_22
+      name: movlud sonson_62
       rect:
         serializedVersion: 2
-        x: 68
+        x: 744
         y: 319
-        width: 22
-        height: 55
+        width: 132
+        height: 257
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -849,20 +1729,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ddde410d508a879a0800000000000000
-      internalID: -6235048941175116323
+      spriteID: 6248399238f110150800000000000000
+      internalID: 5836981240247583782
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: movlud yeni anima_23
+      name: movlud sonson_63
       rect:
         serializedVersion: 2
-        x: 100
+        x: 1054
         y: 319
-        width: 22
-        height: 54
+        width: 137
+        height: 257
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -871,20 +1751,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6bf26d6e300531800800000000000000
-      internalID: 581896754548846518
+      spriteID: 9381d3ec28f6f5850800000000000000
+      internalID: 6367931005721712697
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: movlud yeni anima_24
+      name: movlud sonson_64
       rect:
         serializedVersion: 2
-        x: 132
+        x: 1364
         y: 319
-        width: 22
-        height: 53
+        width: 137
+        height: 262
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -893,20 +1773,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5df88a0b9d7263410800000000000000
-      internalID: 1456395345426157525
+      spriteID: 77c7a467a696e1190800000000000000
+      internalID: -7989832782936638345
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: movlud yeni anima_25
+      name: movlud sonson_65
       rect:
         serializedVersion: 2
-        x: 164
+        x: 1694
         y: 319
-        width: 22
-        height: 54
+        width: 137
+        height: 262
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -915,20 +1795,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d8fb03187076c2290800000000000000
-      internalID: -7913837163266916467
+      spriteID: 3227827e582aaaa80800000000000000
+      internalID: -8454766654442147293
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: movlud yeni anima_26
+      name: movlud sonson_66
       rect:
         serializedVersion: 2
-        x: 196
+        x: 2029
         y: 319
-        width: 22
-        height: 54
+        width: 132
+        height: 267
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -937,20 +1817,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 92d6e406d46071060800000000000000
-      internalID: 6924009881503427881
+      spriteID: e85d054f74c135f60800000000000000
+      internalID: 8021786456644179342
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: movlud yeni anima_27
+      name: movlud sonson_67
       rect:
         serializedVersion: 2
-        x: 228
+        x: 2339
         y: 319
-        width: 22
-        height: 54
+        width: 132
+        height: 257
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -959,20 +1839,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c06e7295608132490800000000000000
-      internalID: -7772342116366686708
+      spriteID: a980cb55c5f3ec670800000000000000
+      internalID: 8560849607485819034
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: movlud yeni anima_28
+      name: movlud sonson_68
       rect:
         serializedVersion: 2
-        x: 260
+        x: 2654
         y: 319
-        width: 22
-        height: 54
+        width: 137
+        height: 257
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -981,20 +1861,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 99888b36f3f57c4b0800000000000000
-      internalID: -5420258900656486247
+      spriteID: 2969f304129c43e90800000000000000
+      internalID: -7046786372278970734
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: movlud yeni anima_29
+      name: movlud sonson_69
       rect:
         serializedVersion: 2
-        x: 292
+        x: 2964
         y: 319
-        width: 22
-        height: 54
+        width: 137
+        height: 262
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1003,900 +1883,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cac73c2b9dd1b0b10800000000000000
-      internalID: 1948684084612136108
+      spriteID: 604034b226e5cc2d0800000000000000
+      internalID: -3257124654770093050
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: movlud yeni anima_30
+      name: movlud sonson_70
       rect:
         serializedVersion: 2
-        x: 5
-        y: 255
-        width: 22
-        height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e609e4148d735ea80800000000000000
-      internalID: -8438276924860624786
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: movlud yeni anima_31
-      rect:
-        serializedVersion: 2
-        x: 37
-        y: 255
-        width: 22
-        height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 19c3654dee04ad370800000000000000
-      internalID: 8348056253793451153
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: movlud yeni anima_32
-      rect:
-        serializedVersion: 2
-        x: 69
-        y: 255
-        width: 22
-        height: 55
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2bbffd73905a884b0800000000000000
-      internalID: -5437915091039159374
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: movlud yeni anima_33
-      rect:
-        serializedVersion: 2
-        x: 101
-        y: 255
-        width: 22
-        height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 38c9a22e5150cfe60800000000000000
-      internalID: 7997272629850053763
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: movlud yeni anima_34
-      rect:
-        serializedVersion: 2
-        x: 133
-        y: 255
-        width: 22
-        height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e31071af48e434040800000000000000
-      internalID: 4630631174905463102
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: movlud yeni anima_35
-      rect:
-        serializedVersion: 2
-        x: 165
-        y: 255
-        width: 22
-        height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 550a91c938d844830800000000000000
-      internalID: 4054521160939446357
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: movlud yeni anima_36
-      rect:
-        serializedVersion: 2
-        x: 197
-        y: 255
-        width: 22
-        height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d8a7f324822e3bed0800000000000000
-      internalID: -2399325513920316787
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: movlud yeni anima_37
-      rect:
-        serializedVersion: 2
-        x: 229
-        y: 255
-        width: 22
-        height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3ceb77eb49d445570800000000000000
-      internalID: 8454467701727280835
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: movlud yeni anima_38
-      rect:
-        serializedVersion: 2
-        x: 261
-        y: 255
-        width: 22
-        height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b9f284314b8c08e60800000000000000
-      internalID: 7962584816934203291
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: movlud yeni anima_39
-      rect:
-        serializedVersion: 2
-        x: 293
-        y: 255
-        width: 22
-        height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 95bdd76de7a4a3730800000000000000
-      internalID: 3979575129360161625
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: movlud yeni anima_40
-      rect:
-        serializedVersion: 2
-        x: 4
-        y: 191
-        width: 22
-        height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5882bd22b3d6284b0800000000000000
-      internalID: -5439665299154851707
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: movlud yeni anima_41
-      rect:
-        serializedVersion: 2
-        x: 36
-        y: 191
-        width: 22
-        height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4ce038aba9c0da4d0800000000000000
-      internalID: -3121825108004237628
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: movlud yeni anima_42
-      rect:
-        serializedVersion: 2
-        x: 68
-        y: 191
-        width: 22
-        height: 55
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f931b7eef10dd8780800000000000000
-      internalID: -8679052071309470817
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: movlud yeni anima_43
-      rect:
-        serializedVersion: 2
-        x: 100
-        y: 191
-        width: 22
-        height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d6fddc8df85c315e0800000000000000
-      internalID: -1939989792858185875
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: movlud yeni anima_44
-      rect:
-        serializedVersion: 2
-        x: 132
-        y: 191
-        width: 22
-        height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2a2dc7b5d33d60f80800000000000000
-      internalID: -8140587015944219998
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: movlud yeni anima_45
-      rect:
-        serializedVersion: 2
-        x: 164
-        y: 191
-        width: 22
-        height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e3ca153262c1d96c0800000000000000
-      internalID: -4135117932729357250
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: movlud yeni anima_46
-      rect:
-        serializedVersion: 2
-        x: 196
-        y: 191
-        width: 22
-        height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: afffb6f4fc85e3810800000000000000
-      internalID: 1746931352880283642
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: movlud yeni anima_47
-      rect:
-        serializedVersion: 2
-        x: 226
-        y: 191
-        width: 24
-        height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 024724264678c0d00800000000000000
-      internalID: 940275287428592672
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: movlud yeni anima_48
-      rect:
-        serializedVersion: 2
-        x: 260
-        y: 191
-        width: 22
-        height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cb2775623dd9f8f60800000000000000
-      internalID: 8038817390086550204
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: movlud yeni anima_49
-      rect:
-        serializedVersion: 2
-        x: 292
-        y: 191
-        width: 22
-        height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: db8727f0ef90230d0800000000000000
-      internalID: -3444679778199504707
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: movlud yeni anima_50
-      rect:
-        serializedVersion: 2
-        x: 6
-        y: 127
-        width: 22
-        height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 247c7c65ea1c303c0800000000000000
-      internalID: -4394455856859068606
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: movlud yeni anima_51
-      rect:
-        serializedVersion: 2
-        x: 38
-        y: 127
-        width: 22
-        height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e70afa285ccb09090800000000000000
-      internalID: -8029710579114467202
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: movlud yeni anima_52
-      rect:
-        serializedVersion: 2
-        x: 70
-        y: 127
-        width: 22
-        height: 55
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 19a66d2ddff776630800000000000000
-      internalID: 3920242728790026897
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: movlud yeni anima_53
-      rect:
-        serializedVersion: 2
-        x: 102
-        y: 127
-        width: 22
-        height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 23614ca402e089670800000000000000
-      internalID: 8545595824791623218
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: movlud yeni anima_54
-      rect:
-        serializedVersion: 2
-        x: 134
-        y: 127
-        width: 22
-        height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 51c1d19cb6e374030800000000000000
-      internalID: 3478817869823548437
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: movlud yeni anima_55
-      rect:
-        serializedVersion: 2
-        x: 166
-        y: 127
-        width: 22
-        height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d035fc2e77a6333e0800000000000000
-      internalID: -2075197940148776179
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: movlud yeni anima_56
-      rect:
-        serializedVersion: 2
-        x: 198
-        y: 127
-        width: 22
-        height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: dd588fe7087d4b6a0800000000000000
-      internalID: -6434281020719594019
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: movlud yeni anima_57
-      rect:
-        serializedVersion: 2
-        x: 230
-        y: 127
-        width: 24
-        height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b81514c002249c410800000000000000
-      internalID: 1497801056489394571
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: movlud yeni anima_58
-      rect:
-        serializedVersion: 2
-        x: 262
-        y: 127
-        width: 22
-        height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fb08e82e34622c300800000000000000
-      internalID: 270821000601305279
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: movlud yeni anima_59
-      rect:
-        serializedVersion: 2
-        x: 294
-        y: 127
-        width: 22
-        height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 47a3704594645d4e0800000000000000
-      internalID: -1957581182266295692
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: movlud yeni anima_60
-      rect:
-        serializedVersion: 2
-        x: 2
-        y: 63
-        width: 29
-        height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f7974e71e5b699af0800000000000000
-      internalID: -389161840918890113
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: movlud yeni anima_61
-      rect:
-        serializedVersion: 2
-        x: 36
-        y: 63
-        width: 28
-        height: 55
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 51a57860b6f1cc440800000000000000
-      internalID: 4957371834359568917
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: movlud yeni anima_62
-      rect:
-        serializedVersion: 2
-        x: 67
-        y: 63
-        width: 28
-        height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e50a7ef11cc42b1b0800000000000000
-      internalID: -5642362990794137506
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: movlud yeni anima_63
-      rect:
-        serializedVersion: 2
-        x: 98
-        y: 63
-        width: 29
-        height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 74a3d0739beaee1a0800000000000000
-      internalID: -6778288278630221241
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: movlud yeni anima_64
-      rect:
-        serializedVersion: 2
-        x: 129
-        y: 63
-        width: 29
-        height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 479c33065c5319630800000000000000
-      internalID: 3931983071509989748
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: movlud yeni anima_65
-      rect:
-        serializedVersion: 2
-        x: 162
-        y: 63
-        width: 29
-        height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9b2325444dde18330800000000000000
-      internalID: 3711509063865086649
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: movlud yeni anima_66
-      rect:
-        serializedVersion: 2
-        x: 196
-        y: 63
-        width: 28
-        height: 55
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7ef261d80acc4a0c0800000000000000
-      internalID: -4565299132312965145
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: movlud yeni anima_67
-      rect:
-        serializedVersion: 2
-        x: 227
-        y: 63
-        width: 28
-        height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ba34d5651ecc9ae10800000000000000
-      internalID: 2209522360390599595
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: movlud yeni anima_68
-      rect:
-        serializedVersion: 2
-        x: 258
-        y: 63
-        width: 29
-        height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ef2568b3a0cd21130800000000000000
-      internalID: 3536130593945703166
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: movlud yeni anima_69
-      rect:
-        serializedVersion: 2
-        x: 289
-        y: 63
-        width: 29
-        height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 77b9fc79ddb856630800000000000000
-      internalID: 3919692834546883447
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: movlud yeni anima_70
-      rect:
-        serializedVersion: 2
-        x: 2
+        x: 94
         y: 0
-        width: 29
-        height: 53
+        width: 137
+        height: 261
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1905,20 +1905,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 95146b1a9c6a24290800000000000000
-      internalID: -7907574610777456295
+      spriteID: a8299f0e6840ea6e0800000000000000
+      internalID: -1824515821691891062
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: movlud yeni anima_71
+      name: movlud sonson_71
       rect:
         serializedVersion: 2
-        x: 33
+        x: 414
         y: 0
-        width: 28
-        height: 54
+        width: 132
+        height: 266
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1927,20 +1927,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b55a6dad176543d50800000000000000
-      internalID: 6716087991319045467
+      spriteID: c8b271a6f153a3630800000000000000
+      internalID: 3907494035737488268
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: movlud yeni anima_72
+      name: movlud sonson_72
       rect:
         serializedVersion: 2
-        x: 65
+        x: 734
         y: 0
-        width: 28
-        height: 52
+        width: 132
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1949,20 +1949,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 58a2f601d529fc3f0800000000000000
-      internalID: -878322473908622715
+      spriteID: 84352b22f2b0a2b70800000000000000
+      internalID: 8874918312760464200
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: movlud yeni anima_73
+      name: movlud sonson_73
       rect:
         serializedVersion: 2
-        x: 98
+        x: 1054
         y: 0
-        width: 29
-        height: 53
+        width: 137
+        height: 261
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1971,20 +1971,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c898e166460e72d80800000000000000
-      internalID: -8275399068455368308
+      spriteID: 9072207a231a37170800000000000000
+      internalID: 8175054987529955081
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: movlud yeni anima_74
+      name: movlud sonson_74
       rect:
         serializedVersion: 2
-        x: 132
+        x: 1379
         y: 0
-        width: 28
-        height: 54
+        width: 132
+        height: 266
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1993,20 +1993,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9d69255fec195d540800000000000000
-      internalID: 5032088476721518297
+      spriteID: a1fe5eedaed855330800000000000000
+      internalID: 3699018708856205082
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: movlud yeni anima_75
+      name: movlud sonson_75
       rect:
         serializedVersion: 2
-        x: 162
+        x: 1694
         y: 0
-        width: 29
-        height: 53
+        width: 137
+        height: 261
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2015,20 +2015,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b1a98cedd4aead550800000000000000
-      internalID: 6186514658317867547
+      spriteID: dcfe194ca7b7044f0800000000000000
+      internalID: -846540962731528243
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: movlud yeni anima_76
+      name: movlud sonson_76
       rect:
         serializedVersion: 2
-        x: 193
+        x: 2014
         y: 0
-        width: 28
-        height: 54
+        width: 132
+        height: 266
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2037,20 +2037,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9a5428052de0d5250800000000000000
-      internalID: 5934916180400817577
+      spriteID: 7a6b32de296169500800000000000000
+      internalID: 402534036995815079
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: movlud yeni anima_77
+      name: movlud sonson_77
       rect:
         serializedVersion: 2
-        x: 225
+        x: 2329
         y: 0
-        width: 28
-        height: 52
+        width: 132
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2059,20 +2059,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: eb9506e03a5153190800000000000000
-      internalID: -7983450974379288130
+      spriteID: 0dc785030877561f0800000000000000
+      internalID: -1052303545470518064
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: movlud yeni anima_78
+      name: movlud sonson_78
       rect:
         serializedVersion: 2
-        x: 258
+        x: 2654
         y: 0
-        width: 29
-        height: 53
+        width: 137
+        height: 261
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2081,20 +2081,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 512e850ac1527f090800000000000000
-      internalID: -8000885408120905195
+      spriteID: bf241151e72c2c070800000000000000
+      internalID: 8125270524504916731
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: movlud yeni anima_79
+      name: movlud sonson_79
       rect:
         serializedVersion: 2
-        x: 292
+        x: 2979
         y: 0
-        width: 28
-        height: 54
+        width: 132
+        height: 266
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2103,8 +2103,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1fb035064247f2430800000000000000
-      internalID: 3760351913461353457
+      spriteID: d1e631eddef8b93f0800000000000000
+      internalID: -892961849307075043
       vertices: []
       indices: 
       edges: []
@@ -2122,87 +2122,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      movlud yeni anima_0: 6299341535632718894
-      movlud yeni anima_1: 4437686995483489329
-      movlud yeni anima_10: 5399660906969273754
-      movlud yeni anima_11: -3634258996333861155
-      movlud yeni anima_12: 6723340761545619315
-      movlud yeni anima_13: -4108482925993586982
-      movlud yeni anima_14: -7889841158238356122
-      movlud yeni anima_15: -5282429837964503633
-      movlud yeni anima_16: 1872116533497927253
-      movlud yeni anima_17: -854248032935745605
-      movlud yeni anima_18: 5206927397225739995
-      movlud yeni anima_19: -7424003962958410206
-      movlud yeni anima_2: -2163095542879978594
-      movlud yeni anima_20: -5520178664064928491
-      movlud yeni anima_21: 6768838110253825425
-      movlud yeni anima_22: -6235048941175116323
-      movlud yeni anima_23: 581896754548846518
-      movlud yeni anima_24: 1456395345426157525
-      movlud yeni anima_25: -7913837163266916467
-      movlud yeni anima_26: 6924009881503427881
-      movlud yeni anima_27: -7772342116366686708
-      movlud yeni anima_28: -5420258900656486247
-      movlud yeni anima_29: 1948684084612136108
-      movlud yeni anima_3: -8360482261414553953
-      movlud yeni anima_30: -8438276924860624786
-      movlud yeni anima_31: 8348056253793451153
-      movlud yeni anima_32: -5437915091039159374
-      movlud yeni anima_33: 7997272629850053763
-      movlud yeni anima_34: 4630631174905463102
-      movlud yeni anima_35: 4054521160939446357
-      movlud yeni anima_36: -2399325513920316787
-      movlud yeni anima_37: 8454467701727280835
-      movlud yeni anima_38: 7962584816934203291
-      movlud yeni anima_39: 3979575129360161625
-      movlud yeni anima_4: 22762412377275340
-      movlud yeni anima_40: -5439665299154851707
-      movlud yeni anima_41: -3121825108004237628
-      movlud yeni anima_42: -8679052071309470817
-      movlud yeni anima_43: -1939989792858185875
-      movlud yeni anima_44: -8140587015944219998
-      movlud yeni anima_45: -4135117932729357250
-      movlud yeni anima_46: 1746931352880283642
-      movlud yeni anima_47: 940275287428592672
-      movlud yeni anima_48: 8038817390086550204
-      movlud yeni anima_49: -3444679778199504707
-      movlud yeni anima_5: 5590304883888604090
-      movlud yeni anima_50: -4394455856859068606
-      movlud yeni anima_51: -8029710579114467202
-      movlud yeni anima_52: 3920242728790026897
-      movlud yeni anima_53: 8545595824791623218
-      movlud yeni anima_54: 3478817869823548437
-      movlud yeni anima_55: -2075197940148776179
-      movlud yeni anima_56: -6434281020719594019
-      movlud yeni anima_57: 1497801056489394571
-      movlud yeni anima_58: 270821000601305279
-      movlud yeni anima_59: -1957581182266295692
-      movlud yeni anima_6: -2444757715059022549
-      movlud yeni anima_60: -389161840918890113
-      movlud yeni anima_61: 4957371834359568917
-      movlud yeni anima_62: -5642362990794137506
-      movlud yeni anima_63: -6778288278630221241
-      movlud yeni anima_64: 3931983071509989748
-      movlud yeni anima_65: 3711509063865086649
-      movlud yeni anima_66: -4565299132312965145
-      movlud yeni anima_67: 2209522360390599595
-      movlud yeni anima_68: 3536130593945703166
-      movlud yeni anima_69: 3919692834546883447
-      movlud yeni anima_7: 1119108393820430788
-      movlud yeni anima_70: -7907574610777456295
-      movlud yeni anima_71: 6716087991319045467
-      movlud yeni anima_72: -878322473908622715
-      movlud yeni anima_73: -8275399068455368308
-      movlud yeni anima_74: 5032088476721518297
-      movlud yeni anima_75: 6186514658317867547
-      movlud yeni anima_76: 5934916180400817577
-      movlud yeni anima_77: -7983450974379288130
-      movlud yeni anima_78: -8000885408120905195
-      movlud yeni anima_79: 3760351913461353457
-      movlud yeni anima_8: 4890214114027763064
-      movlud yeni anima_9: 3215169438076296924
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      divar asagi_0: -6483881124053643729
+      divar asagi_1: 6767422230485257929
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

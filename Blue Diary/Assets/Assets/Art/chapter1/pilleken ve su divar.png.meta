@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      pilleken ve su divar_0: 4429998094626844456
+      pilleken ve su divar_1: -4419635088085079795
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
