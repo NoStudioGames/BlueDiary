@@ -131,10 +131,10 @@ ScriptedImporter:
     customData: 
     rect:
       serializedVersion: 2
-      x: 4
-      y: 4
-      width: 1345
-      height: 1079
+      x: 1166
+      y: 261
+      width: 24
+      height: 20
     spriteID: c373efc076fa5754daf103f49e888814
     spriteBone: []
     spriteOutline: []
@@ -236,10 +236,10 @@ ScriptedImporter:
     customData: 
     rect:
       serializedVersion: 2
-      x: 348
-      y: 1091
-      width: 336
-      height: 720
+      x: 0
+      y: 0
+      width: 1347
+      height: 1090
     spriteID: c339b59af6d1959488547a9e030b03ea
     spriteBone: []
     spriteOutline: []
