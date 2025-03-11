@@ -1226,9 +1226,8 @@ MonoBehaviour:
   minigamePanel: {fileID: 1611434932}
   isDone: 0
   timerHand: {fileID: 693073758}
-  rotStrength: -180
-  isPressing: 0
-  speed: 0.5
+  rotStrength: -250
+  speed: 0.3
   pushButton: {fileID: 1840069472}
 --- !u!1 &214443228
 GameObject:
@@ -4275,9 +4274,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ab8b67d05e5765548b8a4f712ba66463, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  interract: {fileID: 0}
+  interract: {fileID: 858791651}
   minigamePanel: {fileID: 443862393}
   isDone: 0
+  isAdder: 0
+  hasClicked: 0
 --- !u!114 &858791651
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4376,9 +4377,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ab8b67d05e5765548b8a4f712ba66463, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  interract: {fileID: 0}
+  interract: {fileID: 860758512}
   minigamePanel: {fileID: 443862393}
   isDone: 0
+  isAdder: 1
+  hasClicked: 0
 --- !u!114 &860758512
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7645,7 +7648,6 @@ GameObject:
   - component: {fileID: 1572816955}
   - component: {fileID: 1572816954}
   - component: {fileID: 1572816953}
-  - component: {fileID: 1572816957}
   - component: {fileID: 1572816958}
   - component: {fileID: 1572816959}
   - component: {fileID: 1572816962}
@@ -7775,20 +7777,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1572816957
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1572816952}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0f16fb2b3909e40d586b98979736b885, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  FollowSpeed: 5
-  target: {fileID: 0}
 --- !u!114 &1572816958
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7803,8 +7791,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   target: {fileID: 2683743763751019648}
   cameraObj: {fileID: 1572816952}
-  minX: -1
-  maxX: 1
+  minX: -9
+  maxX: 9
   minY: -1
   maxY: 1
   followspeed: 2
