@@ -25,12 +25,19 @@ public class PlayerMovement : MonoBehaviour
     public GameManager gameManager;
     public CameraShake cameraShake;
 
+    private bool isCarrying;
+    private bool canDash;
+    [SerializeField]private Transform carryingPoint;
+    [SerializeField]private GameObject carryingObject;
+
     void Start()
     {
         activeMoveSpeed = speed;
         orderLayer = sprite.gameObject.GetComponent<SpriteRenderer>().sortingOrder;
         gameManager = GameObject.FindGameObjectWithTag("GameManager").GetComponent<GameManager>();
         cameraShake = GameObject.FindGameObjectWithTag("MainCamera").GetComponent<CameraShake>();
+        canDash = true;
+        isCarrying = false;
     }
 
     void FixedUpdate()
@@ -40,7 +47,12 @@ public class PlayerMovement : MonoBehaviour
     }
     private void Update()
     {
-        Dash();
+        if(!isCarrying || canDash){
+            Dash();
+        }
+        if(isCarrying && Input.GetKeyDown(KeyCode.Q)){
+            Drop();
+        }
     }
 
     public void Move()
@@ -91,6 +103,15 @@ public class PlayerMovement : MonoBehaviour
                 collision.gameObject.GetComponent<SpriteRenderer>().sortingOrder = orderLayer + 1;
             }
         }
+        if(collision.gameObject.tag == "RuneBoxes"){
+            if(Input.GetKeyDown(KeyCode.E) && !isCarrying){
+                BoxesRune boxesRune = collision.gameObject.GetComponent<BoxesRune>();
+                if(!boxesRune.isEmpty){
+                    Carry(boxesRune.boxes[0]);
+                    boxesRune.TakeBox();
+                }
+            }
+        }
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
@@ -99,5 +120,24 @@ public class PlayerMovement : MonoBehaviour
         {
             cameraShake.TriggerShake();
         }
+        
+        if(collision.gameObject.tag == "RuneBox"){
+            if(Input.GetKeyDown(KeyCode.E) && !isCarrying){
+                Carry(collision.gameObject);
+            }
+        }
+    }
+
+    public void Carry(GameObject box){
+        carryingObject = box;
+        carryingObject.transform.position = carryingPoint.transform.position;
+        carryingObject.transform.parent = carryingPoint.transform;
+        carryingObject.gameObject.GetComponent<SpriteRenderer>().sortingOrder = 11;
+        isCarrying = true;
+    }   
+    public void Drop(){
+        carryingObject.transform.parent = null;
+        carryingObject.gameObject.GetComponent<SpriteRenderer>().sortingOrder = 9;
+        isCarrying = false;
     }
 }
