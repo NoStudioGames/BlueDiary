@@ -24,6 +24,7 @@ public class CameraController : MonoBehaviour
 
     void Update()
     {
+        target = GameObject.FindGameObjectWithTag("Player");
 
         if (Mathf.Abs(cameraObj.transform.position.x - target.transform.position.x) >= maxX)
         {

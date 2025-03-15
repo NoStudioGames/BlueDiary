@@ -8,6 +8,7 @@ public class ObjLayerManager : MonoBehaviour
     public int orderLayer;
     void Start()
     {
+        player = GameObject.FindGameObjectWithTag("Player");
         orderLayer = gameObject.GetComponent<SpriteRenderer>().sortingOrder;
     }
 

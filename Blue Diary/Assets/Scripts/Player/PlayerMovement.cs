@@ -21,17 +21,20 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField]private bool isDashing;
     [SerializeField]private float dashCoolCounter;
     [SerializeField]private int orderLayer;
-    [SerializeField] private GameObject sprite;
+    [SerializeField]private GameObject sprite;
     public GameManager gameManager;
     public CameraShake cameraShake;
 
-    private bool isCarrying;
-    private bool canDash;
+    [SerializeField]private bool isCarrying;
+    [SerializeField]private bool canDash;
+    [SerializeField]private bool canMove;
+
     [SerializeField]private Transform carryingPoint;
     [SerializeField]private GameObject carryingObject;
 
     void Start()
     {
+        canMove = true; 
         activeMoveSpeed = speed;
         orderLayer = sprite.gameObject.GetComponent<SpriteRenderer>().sortingOrder;
         gameManager = GameObject.FindGameObjectWithTag("GameManager").GetComponent<GameManager>();
@@ -42,16 +45,19 @@ public class PlayerMovement : MonoBehaviour
 
     void FixedUpdate()
     {
-        Move();
+        if(canMove)
+            Move();
         //Dash();
     }
     private void Update()
     {
-        if(!isCarrying || canDash){
-            Dash();
-        }
-        if(isCarrying && Input.GetKeyDown(KeyCode.Q)){
-            Drop();
+        if(canMove){
+            if(!isCarrying || canDash){
+                Dash();
+            }
+            if(isCarrying && Input.GetKeyDown(KeyCode.Q)){
+                Drop();
+            }
         }
     }
 
@@ -60,10 +66,14 @@ public class PlayerMovement : MonoBehaviour
         movement.x = Input.GetAxis("Horizontal");
         movement.y = Input.GetAxis("Vertical");
         body.MovePosition(body.position + movement * activeMoveSpeed * Time.fixedDeltaTime);
-
+        if((isCarrying && movement.y != 0) || (isCarrying && movement.x != 0)){
+            movement.x = 0f;
+            movement.y = -1f;
+        }
         animator.SetFloat("Horizontal", movement.x);
         animator.SetFloat("Vertical", movement.y);
         animator.SetFloat("speed", movement.sqrMagnitude);
+
 
     }
     public void Dash(){
@@ -110,7 +120,9 @@ public class PlayerMovement : MonoBehaviour
                     Carry(boxesRune.boxes[0]);
                     boxesRune.TakeBox();
                 }
+                Debug.Log("PressedE ");
             }
+            Debug.Log("aroundruneboxes");
         }
     }
 
@@ -127,17 +139,36 @@ public class PlayerMovement : MonoBehaviour
             }
         }
     }
+    void OnCollisionStay2D(Collision2D collision)
+    {
+        if(collision.gameObject.tag == "RuneBox"){
+            if(Input.GetKeyDown(KeyCode.E) && !isCarrying){
+                Carry(collision.gameObject);
+            }
+        }
+    }
 
     public void Carry(GameObject box){
+        isCarrying = true;
         carryingObject = box;
         carryingObject.transform.position = carryingPoint.transform.position;
         carryingObject.transform.parent = carryingPoint.transform;
         carryingObject.gameObject.GetComponent<SpriteRenderer>().sortingOrder = 11;
-        isCarrying = true;
     }   
     public void Drop(){
+        isCarrying = false;
         carryingObject.transform.parent = null;
         carryingObject.gameObject.GetComponent<SpriteRenderer>().sortingOrder = 9;
-        isCarrying = false;
+    }
+
+
+    public void StopCharacter(){
+        canMove = false;
+        animator.SetFloat("Horizontal", 0);
+        animator.SetFloat("Vertical", 0);
+        animator.SetFloat("speed", 0);
+    }
+    public void ResumeCharacter(){
+        canMove = true;
     }
 }

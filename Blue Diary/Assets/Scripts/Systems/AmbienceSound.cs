@@ -14,7 +14,7 @@ public class AmbienceSound : MonoBehaviour
     public float maxdistance;
     void Start()
     {
-        
+        Player = GameObject.FindGameObjectWithTag("Player");
     }
 
     void Update()

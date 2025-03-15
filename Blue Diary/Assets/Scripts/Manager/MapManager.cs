@@ -19,9 +19,12 @@ public class MapManager : MonoBehaviour
         {
             foreach(var tile in tileData.tiles)
             {
-                if(tile != null)
+                if(tile != null && tileData != null)
                 {
-                    dataFromTiles.Add(tile, tileData);
+                    if (!dataFromTiles.ContainsKey(tile))
+                    {
+                        dataFromTiles.Add(tile, tileData);
+                    }
                 }
             }
         }
