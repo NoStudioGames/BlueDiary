@@ -33,7 +33,7 @@ public class GameManager : MonoBehaviour
         }
         if (Input.GetKeyDown(KeyCode.P))
         {
-            LoadNextLevel(levelindex);
+            LoadNextLevel();
         }
     }
 
@@ -71,10 +71,20 @@ public class GameManager : MonoBehaviour
         settings.SetActive(false);
     }
 
-    public void LoadNextLevel(int level)
+    public void LoadLevel(int level)
     {
         SceneManager.LoadScene(level);
     }
+    public void LoadNextLevel()
+    {
+        int currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
+        int maxLength = SceneManager.sceneCountInBuildSettings;
+        Debug.Log(maxLength);
+        if(currentSceneIndex+1 >= maxLength)
+            SceneManager.LoadScene(0);
+        SceneManager.LoadScene(currentSceneIndex+1);
+    }
+
 
     public void SliderValue(float value, float changeSpeed)
     {
