@@ -11,6 +11,8 @@ public class IntroManager : MonoBehaviour
 
     void Update()
     {
+        Debug.Log(animator.GetCurrentAnimatorStateInfo(0).normalizedTime);
+        Debug.Log(animator.IsInTransition(0));
         if(animator.GetCurrentAnimatorStateInfo(0).IsName("Opening")){
             if(animator.GetCurrentAnimatorStateInfo(0).normalizedTime > 0.75f && !animator.IsInTransition(0))
                 SceneManager.LoadScene(1);
