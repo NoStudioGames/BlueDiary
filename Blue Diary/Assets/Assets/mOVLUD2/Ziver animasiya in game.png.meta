@@ -333,6 +333,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -2109,7 +2122,87 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Ziver animasiya in game_0: 8590564967570499606
+      Ziver animasiya in game_1: -5454911997408467472
+      Ziver animasiya in game_10: -9047362601031885742
+      Ziver animasiya in game_11: -5605712734817909299
+      Ziver animasiya in game_12: -9091694558907254873
+      Ziver animasiya in game_13: -6692001693161229098
+      Ziver animasiya in game_14: 3649420076407452376
+      Ziver animasiya in game_15: 591518533574034158
+      Ziver animasiya in game_16: -9180371319756324500
+      Ziver animasiya in game_17: 7212629687574597004
+      Ziver animasiya in game_18: 5662209564924084570
+      Ziver animasiya in game_19: 3936882008857158400
+      Ziver animasiya in game_2: -3726691922361666865
+      Ziver animasiya in game_20: -2211981355901034139
+      Ziver animasiya in game_21: 1392946044046939196
+      Ziver animasiya in game_22: 5566674025442199141
+      Ziver animasiya in game_23: -6762011234206492184
+      Ziver animasiya in game_24: -4058941542103941169
+      Ziver animasiya in game_25: 4212398182067814799
+      Ziver animasiya in game_26: 85417203750036624
+      Ziver animasiya in game_27: 3604164555580822861
+      Ziver animasiya in game_28: -8043747645014115756
+      Ziver animasiya in game_29: -5803490613392770393
+      Ziver animasiya in game_3: -3256528475877890316
+      Ziver animasiya in game_30: 4365979242717868051
+      Ziver animasiya in game_31: 1852710821762612568
+      Ziver animasiya in game_32: -4898368762496809427
+      Ziver animasiya in game_33: 5606443325495441613
+      Ziver animasiya in game_34: -6954287608064353132
+      Ziver animasiya in game_35: 4780883375364095000
+      Ziver animasiya in game_36: -4552627221272398538
+      Ziver animasiya in game_37: 5226425070983620529
+      Ziver animasiya in game_38: 8617213836774764802
+      Ziver animasiya in game_39: 134385765230656157
+      Ziver animasiya in game_4: 5862413533913858955
+      Ziver animasiya in game_40: 5919443729096338556
+      Ziver animasiya in game_41: 3388924574078784450
+      Ziver animasiya in game_42: 2051689547344232853
+      Ziver animasiya in game_43: 6161005441781533073
+      Ziver animasiya in game_44: 8685675075861745377
+      Ziver animasiya in game_45: -1819741274117139022
+      Ziver animasiya in game_46: -504115241238281276
+      Ziver animasiya in game_47: 8690888176137374335
+      Ziver animasiya in game_48: -6975881099768228233
+      Ziver animasiya in game_49: -6116567484498493123
+      Ziver animasiya in game_5: 870298117546445343
+      Ziver animasiya in game_50: 7889063749020084634
+      Ziver animasiya in game_51: -2614055313918190077
+      Ziver animasiya in game_52: -5829872958164520768
+      Ziver animasiya in game_53: 678345234692230205
+      Ziver animasiya in game_54: 8666404930553755667
+      Ziver animasiya in game_55: 7827206088199079520
+      Ziver animasiya in game_56: 5966749742052297686
+      Ziver animasiya in game_57: 4072059948424753567
+      Ziver animasiya in game_58: -6145167842151199983
+      Ziver animasiya in game_59: -7721811261626243957
+      Ziver animasiya in game_6: -7008529983843030077
+      Ziver animasiya in game_60: -4112558587890659274
+      Ziver animasiya in game_61: -1022053019056680054
+      Ziver animasiya in game_62: -2632086022835765574
+      Ziver animasiya in game_63: -3717904865123528248
+      Ziver animasiya in game_64: -5716094421954063316
+      Ziver animasiya in game_65: -4958100653919360228
+      Ziver animasiya in game_66: -5100200759008244103
+      Ziver animasiya in game_67: -319697860082938649
+      Ziver animasiya in game_68: 1222726632091783779
+      Ziver animasiya in game_69: 3874268628126401209
+      Ziver animasiya in game_7: 7385143195900917658
+      Ziver animasiya in game_70: -8708566900133652023
+      Ziver animasiya in game_71: 4104303923051215576
+      Ziver animasiya in game_72: 2155478916606491272
+      Ziver animasiya in game_73: -7032169232666748130
+      Ziver animasiya in game_74: -4523135173371152400
+      Ziver animasiya in game_75: -6916606427939584249
+      Ziver animasiya in game_76: 125144717880229546
+      Ziver animasiya in game_77: -5850156641421550538
+      Ziver animasiya in game_78: 3481294055476735380
+      Ziver animasiya in game_79: -4991472358921150742
+      Ziver animasiya in game_8: -1681745362500589130
+      Ziver animasiya in game_9: -3458321264443325483
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -16,6 +16,7 @@ public class CameraZoomManager : MonoBehaviour
     public GameObject starting;
     public GameObject ending;
     private Vector3 targetPosition;
+    public DumbPlayerMove dumbPlayerMove;
 
     void Start()
     {
@@ -25,7 +26,7 @@ public class CameraZoomManager : MonoBehaviour
 
     void Update()
     {
-        float scroll = Input.GetAxis("Horizontal");
+        float scroll = dumbPlayerMove.movement.x;
         zoom += scroll * zoomMultiplier;
         zoom = Mathf.Clamp(zoom, minZoom, maxZoom);
         if(scroll > 0){

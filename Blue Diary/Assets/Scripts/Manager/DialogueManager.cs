@@ -10,18 +10,23 @@ public class DialogueManager : MonoBehaviour
     public bool isNear;
     public GameObject DiologueCanvas;
     public Dialogue dialogue;
+    public bool triggerable;
+    public bool isActivated;
 
     void LateUpdate()
     {
-        if (isNear && Input.GetKeyDown(KeyCode.E))
+        if (isNear && Input.GetKeyDown(KeyCode.E) && !triggerable)
         {
             DiologueCanvas.SetActive(true);
             dialogue.isNear = true;
         }
-        if(!isNear && DiologueCanvas.gameObject.activeSelf)
+        if(!isNear && DiologueCanvas.gameObject.activeSelf && !triggerable)
         {
             dialogue.isNear = false;
             DiologueCanvas.SetActive(false);
+        }
+        if(triggerable && isActivated && !DiologueCanvas.gameObject.activeSelf){
+            DiologueCanvas.SetActive(true);
         }
     }
 

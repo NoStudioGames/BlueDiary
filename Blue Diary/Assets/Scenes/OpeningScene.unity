@@ -3094,6 +3094,7 @@ MonoBehaviour:
   cam: {fileID: 1572816955}
   starting: {fileID: 1485459860}
   ending: {fileID: 1528492158}
+  dumbPlayerMove: {fileID: 1860467745}
 --- !u!1 &1673812586
 GameObject:
   m_ObjectHideFlags: 0
@@ -3208,7 +3209,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1700311357}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ce1d5dd8de48687439226b9fef072316, type: 3}
   m_Name: 
@@ -3616,6 +3617,7 @@ GameObject:
   - component: {fileID: 1860467742}
   - component: {fileID: 1860467741}
   - component: {fileID: 1860467744}
+  - component: {fileID: 1860467745}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -3630,7 +3632,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1860467740}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7bf8ebf5e8c69426f9a3c24ac6b9619c, type: 3}
   m_Name: 
@@ -3648,6 +3650,11 @@ MonoBehaviour:
   sprite: {fileID: 60799247}
   gameManager: {fileID: 0}
   cameraShake: {fileID: 0}
+  isCarrying: 0
+  canDash: 0
+  canMove: 0
+  carryingPoint: {fileID: 0}
+  carryingObject: {fileID: 0}
 --- !u!50 &1860467742
 Rigidbody2D:
   serializedVersion: 5
@@ -3739,6 +3746,29 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 0.77708435, y: 0.19320679}
   m_EdgeRadius: 0
+--- !u!114 &1860467745
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1860467740}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbc87b4342edc294c9783c5f9ea6348d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 7
+  body: {fileID: 1860467742}
+  movement: {x: 0, y: 0}
+  animator: {fileID: 60799250}
+  activeMoveSpeed: 0
+  isDashing: 0
+  dashCoolCounter: 0
+  orderLayer: 0
+  sprite: {fileID: 60799247}
+  gameManager: {fileID: 1786111180}
+  canMove: 0
 --- !u!1 &1876475940
 GameObject:
   m_ObjectHideFlags: 0

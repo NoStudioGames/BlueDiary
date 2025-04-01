@@ -333,6 +333,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -2109,7 +2122,87 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      movlud animasiya in game_0: 983772286968529913
+      movlud animasiya in game_1: -2906836248553436115
+      movlud animasiya in game_10: 7679014746141017593
+      movlud animasiya in game_11: -6932466143105412669
+      movlud animasiya in game_12: 8952305728126769182
+      movlud animasiya in game_13: -4249480397098230039
+      movlud animasiya in game_14: -5549773199094830374
+      movlud animasiya in game_15: -6981499895867659863
+      movlud animasiya in game_16: 99635626167934232
+      movlud animasiya in game_17: 8034655067194017451
+      movlud animasiya in game_18: -1469292275178434181
+      movlud animasiya in game_19: -6166413388278931920
+      movlud animasiya in game_2: 3425973436447758948
+      movlud animasiya in game_20: 693848511923467013
+      movlud animasiya in game_21: 3483295701793435157
+      movlud animasiya in game_22: 3164876743548833807
+      movlud animasiya in game_23: -7660103679062282564
+      movlud animasiya in game_24: -3209659556455573163
+      movlud animasiya in game_25: -2860912013565130040
+      movlud animasiya in game_26: -8948492013258622889
+      movlud animasiya in game_27: -741762360442389408
+      movlud animasiya in game_28: -2355842666888654190
+      movlud animasiya in game_29: 7284449716563628631
+      movlud animasiya in game_3: -3492497066088538494
+      movlud animasiya in game_30: 7597491339449400641
+      movlud animasiya in game_31: -1571886398912177180
+      movlud animasiya in game_32: -9150402106351455955
+      movlud animasiya in game_33: -677724857223393967
+      movlud animasiya in game_34: -3394756643492008729
+      movlud animasiya in game_35: -1928793617423352065
+      movlud animasiya in game_36: 3933001920636949977
+      movlud animasiya in game_37: 5304971867213124306
+      movlud animasiya in game_38: -6368776470871310321
+      movlud animasiya in game_39: 1217556911482049740
+      movlud animasiya in game_4: 7373083149783577804
+      movlud animasiya in game_40: -8108958830688061989
+      movlud animasiya in game_41: 5426117146397357000
+      movlud animasiya in game_42: 4755966192275082269
+      movlud animasiya in game_43: 5698095261787859879
+      movlud animasiya in game_44: 8990603724646044018
+      movlud animasiya in game_45: 8119368358265752232
+      movlud animasiya in game_46: 2244482451899655544
+      movlud animasiya in game_47: 2744026401255972025
+      movlud animasiya in game_48: -9201475226342304184
+      movlud animasiya in game_49: 4354500914041090009
+      movlud animasiya in game_5: -7713272919868845824
+      movlud animasiya in game_50: -3621973181615794908
+      movlud animasiya in game_51: 7353002181691026540
+      movlud animasiya in game_52: 7828232972344569272
+      movlud animasiya in game_53: 3466029431669126211
+      movlud animasiya in game_54: -1520934332397861052
+      movlud animasiya in game_55: 2110504819161887492
+      movlud animasiya in game_56: 197169740201121900
+      movlud animasiya in game_57: -7381667718109375887
+      movlud animasiya in game_58: -4691924502513993123
+      movlud animasiya in game_59: -245018451232511832
+      movlud animasiya in game_6: -1906446709308361947
+      movlud animasiya in game_60: -6422811218172450998
+      movlud animasiya in game_61: 2489410871832672946
+      movlud animasiya in game_62: 7257532390502644770
+      movlud animasiya in game_63: -137492011938600248
+      movlud animasiya in game_64: -8094018026472495608
+      movlud animasiya in game_65: 7064813357880701494
+      movlud animasiya in game_66: 2657710345401624407
+      movlud animasiya in game_67: 1408474473248791837
+      movlud animasiya in game_68: 2519320960607331659
+      movlud animasiya in game_69: 9188041274982518277
+      movlud animasiya in game_7: 466138163464556697
+      movlud animasiya in game_70: 7588524582210753762
+      movlud animasiya in game_71: -634406437947438931
+      movlud animasiya in game_72: -1066338646375786004
+      movlud animasiya in game_73: 3655010458767923488
+      movlud animasiya in game_74: 8570865369296478834
+      movlud animasiya in game_75: -2730628726277752621
+      movlud animasiya in game_76: 7518176279697244695
+      movlud animasiya in game_77: -628298944073045255
+      movlud animasiya in game_78: -369459326412414509
+      movlud animasiya in game_79: -3568800225830056609
+      movlud animasiya in game_8: -8576797952842902813
+      movlud animasiya in game_9: -4717584106555600276
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

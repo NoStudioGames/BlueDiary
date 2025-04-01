@@ -19,6 +19,7 @@ public class Dialogue : MonoBehaviour
     public DialogueManager dManager;
     public SfxManager sfxManager;
 
+    public bool triggerable;
 
     void Start()
     {
@@ -28,22 +29,42 @@ public class Dialogue : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.E) && isNear && !hasFinished)
-        {
-            if (textComponent.text == lines[index])
+        if(!triggerable){
+            if (Input.GetKeyDown(KeyCode.E) && isNear && !hasFinished)
             {
-                NextLine();
+                if (textComponent.text == lines[index])
+                {
+                    NextLine();
+                }
+                else
+                {
+                    StopAllCoroutines();
+                    textComponent.text = lines[index];
+                }
             }
-            else
+            if (Input.GetKeyDown(KeyCode.E) && hasFinished)
             {
-                StopAllCoroutines();
-                textComponent.text = lines[index];
+                hasFinished = false;
+                RestartDiologue(0);
             }
         }
-        if (Input.GetKeyDown(KeyCode.E) && hasFinished)
-        {
-            hasFinished = false;
-            RestartDiologue(0);
+        else{
+            if (Input.GetKeyDown(KeyCode.E) && triggerable && !hasFinished)
+            {
+                if (textComponent.text == lines[index])
+                {
+                    NextLine();
+                }
+                else
+                {
+                    StopAllCoroutines();
+                    textComponent.text = lines[index];
+                }
+            }
+            if (Input.GetKeyDown(KeyCode.E) && hasFinished)
+            {
+                hasFinished = false;
+            }
         }
     }
 

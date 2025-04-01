@@ -4,6 +4,7 @@ public class ChangeMainPlayer : MonoBehaviour
 {
     public PlayerMovement Movlud;
     public PlayerMovement Ziver;
+    public bool canTab;
     void Start()
     {
         Ziver.enabled = false;
@@ -12,7 +13,7 @@ public class ChangeMainPlayer : MonoBehaviour
 
     void Update()
     {
-        if(Input.GetKeyDown(KeyCode.Tab)){
+        if(Input.GetKeyDown(KeyCode.Tab) && canTab){
             ChangePlayer();
         }
     }
@@ -29,5 +30,11 @@ public class ChangeMainPlayer : MonoBehaviour
             Movlud.ResumeCharacter();
             Movlud.enabled = true;
         }
+    }
+    public void DeactivatePlayers(){
+        Movlud.StopCharacter();
+        Movlud.enabled = false;
+        Ziver.StopCharacter();
+        Ziver.enabled = false;
     }
 }
