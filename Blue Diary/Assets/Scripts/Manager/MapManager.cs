@@ -14,16 +14,18 @@ public class MapManager : MonoBehaviour
 
     private void Awake()
     {
-        dataFromTiles = new Dictionary<TileBase, TileDatas>();
-        foreach(var tileData in tileDatas)
-        {
-            foreach(var tile in tileData.tiles)
+        if(tileDatas != null){
+            dataFromTiles = new Dictionary<TileBase, TileDatas>();
+            foreach(var tileData in tileDatas)
             {
-                if(tile != null && tileData != null)
+                foreach(var tile in tileData.tiles)
                 {
-                    if (!dataFromTiles.ContainsKey(tile))
+                    if(tile != null && tileData != null)
                     {
-                        dataFromTiles.Add(tile, tileData);
+                        if (!dataFromTiles.ContainsKey(tile))
+                        {
+                            dataFromTiles.Add(tile, tileData);
+                        }
                     }
                 }
             }
@@ -33,17 +35,20 @@ public class MapManager : MonoBehaviour
 
     public AudioClip GetCurrentFloorClip(Vector2 worldposition)
     {
-        Vector3Int gridPosition = map.WorldToCell(worldposition);
-        TileBase tile = map.GetTile(gridPosition);
-        if(tile == null)
-        {
-            return null;
-        }
+        if(map != null){
+            Vector3Int gridPosition = map.WorldToCell(worldposition);
+            TileBase tile = map.GetTile(gridPosition);
+            if(tile == null)
+            {
+                return null;
+            }
 
-        int index = Random.Range(0, dataFromTiles[tile].clip.Length);
-        AudioClip currentFloorClip = dataFromTiles[tile].clip[index];
-        
-        return currentFloorClip;
+            int index = Random.Range(0, dataFromTiles[tile].clip.Length);
+            AudioClip currentFloorClip = dataFromTiles[tile].clip[index];
+            
+            return currentFloorClip;
+        }else return null;
+
     }
 
 }

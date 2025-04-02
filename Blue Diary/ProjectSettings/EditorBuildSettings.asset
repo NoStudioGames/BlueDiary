@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Menu.unity
     guid: 749e6d88fd0e40f44929dafe0ce88548
   - enabled: 1
+    path: Assets/Scenes/TrailerIntro.unity
+    guid: 02f33355b825f164595bab3ea7d4bf3b
+  - enabled: 1
     path: Assets/Scenes/OpeningScene.unity
     guid: b8b6c688799702e429ce8fa41789eef5
   - enabled: 1
@@ -44,9 +47,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MovementTesting 8.unity
     guid: 674ab29df1f22ef4b8caa7e8c777edc8
-  - enabled: 1
-    path: Assets/Scenes/TrailerIntro.unity
-    guid: 02f33355b825f164595bab3ea7d4bf3b
   - enabled: 1
     path: Assets/Scenes/Plant.unity
     guid: 6424ffdbd82215b4ca67ab080bb63463

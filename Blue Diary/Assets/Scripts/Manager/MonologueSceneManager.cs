@@ -1,5 +1,7 @@
 using UnityEngine;
 using TMPro;
+using System.Collections;
+using UnityEngine.SceneManagement;
 
 public class MonologueSceneManager : MonoBehaviour
 {
@@ -14,6 +16,7 @@ public class MonologueSceneManager : MonoBehaviour
     public CheckCollider isZiverCol;
 
     public DialogueManager dialogueManager;
+    public int gameLevelIndex;
     void Start()
     {
         movludInPlace = false;
@@ -39,5 +42,12 @@ public class MonologueSceneManager : MonoBehaviour
                 dialogueManager.isActivated = true;
             }
         }
+        if(dialogueManager.dialogue.hasFinished){
+            StartCoroutine(HoldForNextScene(2));
+        }
+    }
+    IEnumerator HoldForNextScene(float delay){
+        yield return new WaitForSeconds(delay);
+        SceneManager.LoadScene(gameLevelIndex);
     }
 }

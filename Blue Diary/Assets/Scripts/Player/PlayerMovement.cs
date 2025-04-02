@@ -41,6 +41,9 @@ public class PlayerMovement : MonoBehaviour
         cameraShake = GameObject.FindGameObjectWithTag("MainCamera").GetComponent<CameraShake>();
         canDash = true;
         isCarrying = false;
+        if(gameManager != null){
+            gameManager = null;
+        }
     }
 
     void FixedUpdate()
@@ -80,7 +83,8 @@ public class PlayerMovement : MonoBehaviour
         if (dashCoolCounter > 0)
         {
             dashCoolCounter -= Time.deltaTime;
-            gameManager.SliderValue((1 - (dashCoolCounter/dashCooldown)), -1);
+            if(gameManager != null)
+                gameManager.SliderValue((1 - (dashCoolCounter/dashCooldown)), -1);
         }
         if (Input.GetKeyDown(KeyCode.Space) && dashCoolCounter <= 0 && (movement.x != 0 || movement.y != 0))
         {
@@ -93,12 +97,14 @@ public class PlayerMovement : MonoBehaviour
     IEnumerator DashCooldown()
     {
         activeMoveSpeed = dashSpeed;
-        gameManager.SliderValue(0, dashLength);
+        if(gameManager != null)
+            gameManager.SliderValue(0, dashLength);
         yield return new WaitForSeconds(dashLength);
         isDashing = false;
         activeMoveSpeed = speed;
         dashCoolCounter = dashCooldown;
-        gameManager.SliderValue(dashCoolCounter, -1);
+        if(gameManager != null)
+            gameManager.SliderValue(dashCoolCounter, -1);
     }
     private void OnTriggerStay2D(Collider2D collision)
     {

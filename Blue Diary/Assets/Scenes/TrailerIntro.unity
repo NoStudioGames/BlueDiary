@@ -1369,7 +1369,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1700311358
 Transform:
   m_ObjectHideFlags: 0
@@ -1409,7 +1409,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1786111179}
-  - component: {fileID: 1786111180}
   - component: {fileID: 1786111181}
   - component: {fileID: 1786111182}
   m_Layer: 0
@@ -1434,23 +1433,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1786111180
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1786111178}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: dd89d5cd404ee9a40862c1dcaa28d085, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  menu: {fileID: 0}
-  settings: {fileID: 0}
-  levelindex: 2
-  dashSlider: {fileID: 0}
-  playerMovement: {fileID: 0}
 --- !u!114 &1786111181
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1487,6 +1469,7 @@ MonoBehaviour:
   isMovludCol: {fileID: 1229365614}
   isZiverCol: {fileID: 1630854621}
   dialogueManager: {fileID: 5541774352730595880}
+  gameLevelIndex: 4
 --- !u!1 &1794714351
 GameObject:
   m_ObjectHideFlags: 0
@@ -6526,7 +6509,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 781061268613529505}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 0113d3accb19a794996bfa57a060858f, type: 3}
   m_Name: 
@@ -6675,7 +6658,7 @@ MonoBehaviour:
   dashCoolCounter: 0
   orderLayer: 0
   sprite: {fileID: 9026961672691183454}
-  gameManager: {fileID: 1786111180}
+  gameManager: {fileID: 0}
   cameraShake: {fileID: 0}
   isCarrying: 0
   canDash: 0
@@ -6955,7 +6938,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 9026961672691183454}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 0113d3accb19a794996bfa57a060858f, type: 3}
   m_Name: 
@@ -7004,7 +6987,7 @@ MonoBehaviour:
   dashCoolCounter: 0
   orderLayer: 0
   sprite: {fileID: 781061268613529505}
-  gameManager: {fileID: 1786111180}
+  gameManager: {fileID: 0}
   cameraShake: {fileID: 0}
   isCarrying: 0
   canDash: 0
@@ -7385,10 +7368,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   textComponent: {fileID: 5209997168704685974}
   lines:
-  - "H\u0259r k\u0259s bu h\u0259yatda s\u0259vhl\u0259r edir"
-  - "B\u0259zil\u0259rimiz bununla ya\u015Fama\u011Fa al\u0131\u015F\u0131r"
+  - "H\u0259r k\u0259s bu h\u0259yatda s\u0259vhl\u0259r edir..."
+  - "B\u0259zil\u0259rimiz bununla ya\u015Fama\u011Fa al\u0131\u015F\u0131r..."
   - "Ama m\u0259nim 2. bir \u015Fans\u0131m daha var"
-  textSpeed: 0.15
+  textSpeed: 0.1
   Panel: {fileID: 71616929962339632}
   isNear: 0
   hasFinished: 0

@@ -51,14 +51,17 @@ public class Dialogue : MonoBehaviour
         else{
             if (Input.GetKeyDown(KeyCode.E) && triggerable && !hasFinished)
             {
-                if (textComponent.text == lines[index])
-                {
-                    NextLine();
-                }
-                else
+                if (textComponent.text != lines[index])
                 {
                     StopAllCoroutines();
                     textComponent.text = lines[index];
+                }
+            }
+            if (triggerable && !hasFinished)
+            {
+                if (textComponent.text == lines[index])
+                {
+                    NextLine();
                 }
             }
             if (Input.GetKeyDown(KeyCode.E) && hasFinished)
@@ -107,5 +110,10 @@ public class Dialogue : MonoBehaviour
         index = sIndex;
         textComponent.text = string.Empty;
         StartDiologue();
+    }
+
+    IEnumerator DelayedPause(float delay){
+        NextLine();
+        yield return new WaitForSeconds(delay);
     }
 }
