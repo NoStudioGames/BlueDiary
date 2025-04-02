@@ -12,9 +12,12 @@ public class EnemyShootPlayer : MonoBehaviour
     private Transform player;
     public GameObject bullet;
     public GameObject bulletParent;
+    public Animator animator;
+    public float health = 200;
     void Start()
     {
         player = GameObject.FindGameObjectWithTag("Player").transform;
+        animator = gameObject.GetComponent<Animator>();
     }
 
     void Update()
@@ -34,5 +37,31 @@ public class EnemyShootPlayer : MonoBehaviour
         Gizmos.color = Color.green;
         Gizmos.DrawWireSphere(transform.position, lineOfSite);
         Gizmos.DrawWireSphere(transform.position, shootingRange);
+    }
+
+    void OnTriggerEnter2D(Collider2D collision)
+    {
+        if(collision.gameObject.tag == "Throwable"){
+            Hurt();
+            Destroy(collision.gameObject);
+        }
+    }
+    void OnCollisionEnter2D(Collision2D collision)
+    {
+        if(collision.gameObject.tag == "Throwable"){
+            Hurt();
+            Destroy(collision.gameObject);
+        }
+    }
+
+    public void Hurt(){
+        animator.SetTrigger("hurt");
+        health -= 50;
+        if(health <= 0){
+            Death();
+        }
+    }
+    public void Death(){
+        Destroy(this.gameObject);
     }
 }

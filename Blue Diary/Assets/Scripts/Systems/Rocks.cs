@@ -20,11 +20,15 @@ public class Rocks : MonoBehaviour
     }
     public GameObject TakeRock(Transform carryObj)
     {
-        rockCounts--;
-        int randomRockIndex = Random.Range(0, rocks.Length);
-        GameObject rock = Instantiate(rocks[randomRockIndex], carryObj.transform.position, Quaternion.identity);
-        rock.transform.parent = carryObj.transform;
-        rock.transform.position = carryObj.transform.position;
-        return rock;
+        if(rockCounts > 0){
+            rockCounts--;
+            int randomRockIndex = Random.Range(0, rocks.Length);
+            GameObject rock = Instantiate(rocks[randomRockIndex], carryObj.transform.position, Quaternion.identity);
+            rock.transform.parent = carryObj.transform;
+            rock.transform.position = carryObj.transform.position;
+            return rock;
+        }else{
+            return null;
+        }
     }
 }
