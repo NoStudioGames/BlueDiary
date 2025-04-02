@@ -31,6 +31,10 @@ public class PlayerMovement : MonoBehaviour
 
     [SerializeField]private Transform carryingPoint;
     [SerializeField]private GameObject carryingObject;
+    
+    [SerializeField] private Weapon weapon;
+
+
 
     void Start()
     {
@@ -61,6 +65,7 @@ public class PlayerMovement : MonoBehaviour
             if(isCarrying && Input.GetKeyDown(KeyCode.Q)){
                 Drop();
             }
+            ShootObject();
         }
     }
 
@@ -106,6 +111,33 @@ public class PlayerMovement : MonoBehaviour
         if(gameManager != null)
             gameManager.SliderValue(dashCoolCounter, -1);
     }
+
+    public void ShootObject()
+    {
+        if (!isCarrying)
+        {
+            return;
+        }
+
+        Vector2 aimDirection = (Vector2)Camera.main.ScreenToWorldPoint(Input.mousePosition) - body.position;
+        float aimAngle = Mathf.Atan2(aimDirection.y, aimDirection.x) * Mathf.Rad2Deg - 90f;
+        carryingPoint.transform.rotation = Quaternion.Euler(carryingPoint.rotation.x, carryingPoint.rotation.y, aimAngle);
+        
+        if (Input.GetMouseButtonDown(0))
+        {
+            weapon.Fire(carryingObject);
+            Drop();
+        }
+    }
+
+
+
+
+
+
+
+
+
     private void OnTriggerStay2D(Collider2D collision)
     {
         if(collision.gameObject.tag == "Npc" && collision.gameObject.GetComponent<SpriteRenderer>() != null)
@@ -130,6 +162,21 @@ public class PlayerMovement : MonoBehaviour
             }
             Debug.Log("aroundruneboxes");
         }
+        if (collision.gameObject.tag == "Rocks")
+        {
+            if (Input.GetKeyDown(KeyCode.E) && !isCarrying)
+            {
+                Rocks rocks = collision.gameObject.GetComponent<Rocks>();
+                if (rocks.rocks.Length != 0)
+                {
+                    GameObject rock = rocks.TakeRock(carryingPoint);
+                    Carry(rock);
+                }
+                Debug.Log("PressedE ");
+            }
+            Debug.Log("aroundruneboxes");
+        }
+
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
@@ -165,6 +212,7 @@ public class PlayerMovement : MonoBehaviour
         isCarrying = false;
         carryingObject.transform.parent = null;
         carryingObject.gameObject.GetComponent<SpriteRenderer>().sortingOrder = 9;
+        carryingObject = null;
     }
 
 

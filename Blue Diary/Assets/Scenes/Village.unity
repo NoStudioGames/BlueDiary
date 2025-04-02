@@ -1734,7 +1734,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: -2.378493, y: 10.134746}
+  m_Offset: {x: -2.378493, y: 10.236057}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -1744,7 +1744,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 1.6605574, y: 1.3836956}
+  m_Size: {x: 1.6605573, y: 1.1810722}
   m_EdgeRadius: 0
 --- !u!1 &404617512
 GameObject:
@@ -16258,6 +16258,42 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!58 &2536134277656664123
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3369463398063355872}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_Radius: 1
 --- !u!1 &2578117448142972204
 GameObject:
   m_ObjectHideFlags: 0
@@ -16276,6 +16312,21 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!114 &2619750004388410690
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3369463398063355872}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c34ee2736936fc94ba2f52a0ab8abace, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hasKnocked: 0
+  locked: 0
+  isNear: 0
 --- !u!114 &2639181474530579022
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16325,6 +16376,21 @@ RectTransform:
   m_AnchoredPosition: {x: -7.5, y: -0.5}
   m_SizeDelta: {x: -35, y: -13}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!4 &2795467073400551837
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3369463398063355872}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 166.7, y: -114.05, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &2852554634915871141
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16799,6 +16865,24 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8777958431739199835}
   m_CullTransparentMesh: 1
+--- !u!1 &3369463398063355872
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2795467073400551837}
+  - component: {fileID: 2536134277656664123}
+  - component: {fileID: 2619750004388410690}
+  m_Layer: 0
+  m_Name: Door
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
 --- !u!224 &3391058243347223221
 RectTransform:
   m_ObjectHideFlags: 0
@@ -18907,6 +18991,7 @@ MonoBehaviour:
   hasFinished: 0
   dManager: {fileID: 7406240937232646178}
   sfxManager: {fileID: 1157016023}
+  triggerable: 0
 --- !u!114 &7333979491244139090
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19029,6 +19114,8 @@ MonoBehaviour:
   isNear: 0
   DiologueCanvas: {fileID: 3089040234614804282}
   dialogue: {fileID: 7327092747265407216}
+  triggerable: 0
+  isActivated: 0
 --- !u!1 &7619461899451233030
 GameObject:
   m_ObjectHideFlags: 0
@@ -19938,3 +20025,4 @@ SceneRoots:
   - {fileID: 8329966825488291528}
   - {fileID: 703356698}
   - {fileID: 219528220}
+  - {fileID: 2795467073400551837}
