@@ -18,11 +18,20 @@ EditorBuildSettings:
     path: Assets/Scenes/OpeningScene.unity
     guid: b8b6c688799702e429ce8fa41789eef5
   - enabled: 1
-    path: Assets/Scenes/Home.unity
-    guid: fe63fe7bb302b62408e9fd97d8f31bf0
+    path: Assets/Scenes/VillageOpening.unity
+    guid: 6f0af44d2db034c43a2be9cc4ff0fb0e
+  - enabled: 1
+    path: Assets/Scenes/HomeInside.unity
+    guid: b43a0db937b193e429ee351b15508582
   - enabled: 1
     path: Assets/Scenes/Chapter1.unity
     guid: 2a2c0fa7b39f7be409b9f51fa7175bb4
+  - enabled: 1
+    path: Assets/Scenes/BossFight.unity
+    guid: a45089ac07520d74e88c991e649b584d
+  - enabled: 1
+    path: Assets/Scenes/Home.unity
+    guid: fe63fe7bb302b62408e9fd97d8f31bf0
   - enabled: 1
     path: Assets/Scenes/Village.unity
     guid: 9cfa62ad65cc16f419b2df67f2e74c6e

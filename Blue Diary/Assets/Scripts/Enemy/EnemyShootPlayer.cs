@@ -14,22 +14,48 @@ public class EnemyShootPlayer : MonoBehaviour
     public GameObject bulletParent;
     public Animator animator;
     public float health = 200;
+    public Shake shake;
+    public CameraShake cameraShake;
+    public bool followHorizontally;
+    public bool followVertically;
+    public Vector3 refPos;
     void Start()
     {
         player = GameObject.FindGameObjectWithTag("Player").transform;
         animator = gameObject.GetComponent<Animator>();
+        shake = gameObject.GetComponent<Shake>();
+        cameraShake = GameObject.FindGameObjectWithTag("MainCamera").GetComponent<CameraShake>();
+        refPos = player.transform.position;
     }
 
     void Update()
     {
-        float distanceFromPlayer = Vector2.Distance(player.position, transform.position);
-        if (distanceFromPlayer < lineOfSite && distanceFromPlayer > shootingRange)
-        {
-            transform.position = Vector2.MoveTowards(this.transform.position, player.position, speed * Time.deltaTime);
+        if(followHorizontally){
+            refPos = new Vector3(player.position.x, this.transform.position.y, transform.position.z);
         }
-        else if (distanceFromPlayer <= shootingRange && nextFireTime < Time.time) { 
-            Instantiate(bullet, bulletParent.transform.position, Quaternion.identity);
-            nextFireTime = Time.time + fireRate;
+        if(followVertically)
+        {
+            refPos = new Vector3(this.transform.position.x, player.position.y, transform.position.z);
+        }
+        if(followHorizontally && followVertically){
+            refPos = new Vector3(player.position.x, player.position.y, transform.position.z);
+        }
+
+        if(health > 0){
+            float distanceFromPlayer = Vector2.Distance(player.position, transform.position);
+            if (distanceFromPlayer < lineOfSite && distanceFromPlayer > shootingRange)
+            {
+                transform.position = Vector2.MoveTowards(this.transform.position, refPos, speed * Time.deltaTime);
+            }
+            else if (distanceFromPlayer <= shootingRange && nextFireTime < Time.time) { 
+                GameObject fire = Instantiate(bullet, bulletParent.transform.position, Quaternion.identity);
+                Vector3 moveDirection = gameObject.transform.position -player.transform.position; 
+        		float angle = Mathf.Atan2(moveDirection.y, moveDirection.x) * Mathf.Rad2Deg;
+		        fire.transform.rotation = Quaternion.AngleAxis(angle-90, Vector3.forward);
+
+                cameraShake.ControllableTriggerShake(0.1f, 0.3f);
+                nextFireTime = Time.time + fireRate;
+            }
         }
     }
     private void OnDrawGizmosSelected()
@@ -56,12 +82,15 @@ public class EnemyShootPlayer : MonoBehaviour
 
     public void Hurt(){
         animator.SetTrigger("hurt");
+        shake.TriggerShake();
         health -= 50;
         if(health <= 0){
             Death();
         }
     }
     public void Death(){
-        Destroy(this.gameObject);
+        float delay = animator.GetCurrentAnimatorStateInfo(0).length*0.8f;
+        shake.TriggerShake();
+        Destroy(this.gameObject, delay);
     }
 }

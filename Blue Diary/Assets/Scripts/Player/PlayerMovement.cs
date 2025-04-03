@@ -27,12 +27,13 @@ public class PlayerMovement : MonoBehaviour
 
     [SerializeField]private bool isCarrying;
     [SerializeField]private bool canDash;
-    [SerializeField]private bool canMove;
+    [SerializeField]public bool canMove;
 
     [SerializeField]private Transform carryingPoint;
     [SerializeField]private GameObject carryingObject;
     
     [SerializeField] private Weapon weapon;
+    [SerializeField] private bool canShoot;
 
 
 
@@ -65,7 +66,9 @@ public class PlayerMovement : MonoBehaviour
             if(isCarrying && Input.GetKeyDown(KeyCode.Q)){
                 Drop();
             }
-            ShootObject();
+            if(canShoot){
+                ShootObject();
+            }
         }
     }
 
@@ -151,6 +154,17 @@ public class PlayerMovement : MonoBehaviour
                 collision.gameObject.GetComponent<SpriteRenderer>().sortingOrder = orderLayer + 1;
             }
         }
+        if(collision.gameObject.tag == "Rocks" && collision.gameObject.GetComponent<SpriteRenderer>() != null)
+        {
+            if (collision.transform.position.y > transform.position.y)
+            {
+                collision.gameObject.GetComponent<SpriteRenderer>().sortingOrder = orderLayer - 1;
+            }
+            else
+            {
+                collision.gameObject.GetComponent<SpriteRenderer>().sortingOrder = orderLayer + 1;
+            }
+        }
         if(collision.gameObject.tag == "RuneBoxes"){
             if(Input.GetKeyDown(KeyCode.E) && !isCarrying){
                 BoxesRune boxesRune = collision.gameObject.GetComponent<BoxesRune>();
@@ -170,13 +184,21 @@ public class PlayerMovement : MonoBehaviour
                 if (rocks.rocks.Length != 0)
                 {
                     GameObject rock = rocks.TakeRock(carryingPoint);
+                    canShoot = true;
                     Carry(rock);
                 }
                 Debug.Log("PressedE ");
             }
-            Debug.Log("aroundruneboxes");
+            Debug.Log("aroundRocks");
         }
 
+    }
+    void OnTriggerEnter2D(Collider2D collision)
+    {
+        if(collision.gameObject.tag == "Fireball")
+        {
+            cameraShake.ControllableTriggerShake(0.2f, 0.2f);
+        }
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
@@ -185,6 +207,7 @@ public class PlayerMovement : MonoBehaviour
         {
             cameraShake.TriggerShake();
         }
+
         
         if(collision.gameObject.tag == "RuneBox"){
             if(Input.GetKeyDown(KeyCode.E) && !isCarrying){

@@ -551,6 +551,8 @@ MonoBehaviour:
   canMove: 0
   carryingPoint: {fileID: 0}
   carryingObject: {fileID: 0}
+  weapon: {fileID: 0}
+  canShoot: 0
 --- !u!50 &62252388
 Rigidbody2D:
   serializedVersion: 5
@@ -4970,6 +4972,8 @@ MonoBehaviour:
   canMove: 0
   carryingPoint: {fileID: 0}
   carryingObject: {fileID: 0}
+  weapon: {fileID: 0}
+  canShoot: 0
 --- !u!50 &1764899882
 Rigidbody2D:
   serializedVersion: 5
@@ -5087,7 +5091,7 @@ MonoBehaviour:
   - {fileID: 192760924}
   - {fileID: 1269697011}
   currentCamIndex: 0
-  gameLevelIndex: 5
+  gameLevelIndex: 4
 --- !u!1 &1794714351
 GameObject:
   m_ObjectHideFlags: 0
@@ -5504,6 +5508,8 @@ MonoBehaviour:
   canMove: 0
   carryingPoint: {fileID: 0}
   carryingObject: {fileID: 0}
+  weapon: {fileID: 0}
+  canShoot: 0
 --- !u!50 &1860467742
 Rigidbody2D:
   serializedVersion: 5

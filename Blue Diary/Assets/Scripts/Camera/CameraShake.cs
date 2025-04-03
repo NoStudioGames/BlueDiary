@@ -33,6 +33,7 @@ public class CameraShake : MonoBehaviour
     {
         if (!hasEnabled)
         {
+            initialPosition = transform.position;
             hasEnabled = true;
             StartCoroutine(ShakeCoroutine());
         }
@@ -47,7 +48,7 @@ public class CameraShake : MonoBehaviour
             float x = Random.Range(-1f, 1f) * shakeMagnitude;
             float y = Random.Range(-1f, 1f) * shakeMagnitude;
 
-            transform.localPosition = new Vector3(transform.position.x + x, transform.position.y + y, transform.position.z);
+            transform.position = new Vector3(transform.position.x + x, transform.position.y + y, transform.position.z);
 
             elapsed += Time.deltaTime;
 
@@ -58,8 +59,44 @@ public class CameraShake : MonoBehaviour
         }
 
         // Reset the camera to its original position
-        cameraController.GoPoint();
+        transform.position = initialPosition;
+        if(cameraController != null)
+            cameraController.GoPoint();
         shakeMagnitude = initialShakeMagnitude;
+        hasEnabled = false;
+    }
+    public void ControllableTriggerShake(float shakeMagnitude, float shakeDuration)
+    {
+        if (!hasEnabled)
+        {
+            initialPosition = transform.position;
+            hasEnabled = true;
+            StartCoroutine(ControllableShakeCoroutine(shakeMagnitude, initialPosition, shakeDuration));
+        }
+    }
+    private IEnumerator ControllableShakeCoroutine(float shakeMagnitude, Vector3 initialPosition, float shakeDuration)
+    {
+        float elapsed = 0f;
+
+        while (elapsed < shakeDuration)
+        {
+            float x = Random.Range(-0.1f, 0.1f) * shakeMagnitude;
+            float y = Random.Range(-0.1f, 0.1f) * shakeMagnitude;
+
+            transform.position = new Vector3(transform.position.x + x, transform.position.y + y, transform.position.z);
+
+            elapsed += Time.deltaTime;
+
+            // Gradually reduce the shake effect
+            shakeMagnitude = Mathf.Lerp(shakeMagnitude, 0f, Time.deltaTime * dampingSpeed);
+
+            yield return null;
+        }
+
+        // Reset the camera to its original position
+        transform.position = initialPosition;
+        if(cameraController != null)
+            cameraController.GoPoint();
         hasEnabled = false;
     }
 }

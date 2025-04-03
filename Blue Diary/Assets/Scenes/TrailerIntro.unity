@@ -1469,7 +1469,7 @@ MonoBehaviour:
   isMovludCol: {fileID: 1229365614}
   isZiverCol: {fileID: 1630854621}
   dialogueManager: {fileID: 5541774352730595880}
-  gameLevelIndex: 4
+  gameLevelIndex: 3
 --- !u!1 &1794714351
 GameObject:
   m_ObjectHideFlags: 0
@@ -6665,6 +6665,8 @@ MonoBehaviour:
   canMove: 0
   carryingPoint: {fileID: 8346178008748556404}
   carryingObject: {fileID: 0}
+  weapon: {fileID: 0}
+  canShoot: 0
 --- !u!224 &1292484997179981929
 RectTransform:
   m_ObjectHideFlags: 0
@@ -6994,6 +6996,8 @@ MonoBehaviour:
   canMove: 0
   carryingPoint: {fileID: 7135996259337023309}
   carryingObject: {fileID: 0}
+  weapon: {fileID: 0}
+  canShoot: 0
 --- !u!114 &3284547458226077402
 MonoBehaviour:
   m_ObjectHideFlags: 0

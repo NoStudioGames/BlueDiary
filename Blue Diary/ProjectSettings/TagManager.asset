@@ -12,6 +12,7 @@ TagManager:
   - RuneBox
   - Rocks
   - Throwable
+  - Fireball
   layers:
   - Default
   - TransparentFX
