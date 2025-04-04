@@ -59,6 +59,7 @@ public class CutsceneCamera : MonoBehaviour
         }
         cam.enabled = !isEnabled;
         cam.target.GetComponent<PlayerMovement>().enabled = !isEnabled;
+        DirectPoint();
     }
 
     public void GoPoint()
@@ -89,28 +90,21 @@ public class CutsceneCamera : MonoBehaviour
     }
     IEnumerator SetCutscene(float delay)
     {
-        while (isEnabled)
+        for (int i = 0; i <= targets.Length+1; i++)
         {
-            Debug.Log("hEre");
+            Debug.Log("here");
+            targetIndex = i;
             target = targets[targetIndex];
-            DirectPoint();
-            if (targetIndex + 1 >= targets.Length)
+            if (targetIndex + 1>= targets.Length)
             {
                 targetIndex = 0;
                 isEnabled = false;
                 hasFinished = true;
-                yield return new WaitForSeconds(0);
+                yield return new WaitForSeconds(2);
             }
-            else
-            {
-                Vector3 pos = new Vector3();
-                pos.Set(target.transform.position.x, target.transform.position.y, transform.position.z);
-                if (cameraObj.transform.position == pos)
-                {
-                    targetIndex = targetIndex + 1;
-                }
-            }
-            cam.target.GetComponent<PlayerMovement>().animator.SetFloat("speed", 0);
+            yield return new WaitForSeconds(3);
+        }
+        cam.target.GetComponent<PlayerMovement>().animator.SetFloat("speed", 0);
             for (int i = 0; i < translator.Length; i++)
             {
                 if (!translator[i].canActivate)
@@ -120,6 +114,5 @@ public class CutsceneCamera : MonoBehaviour
             }
             cam.enabled = !isEnabled;
             cam.target.GetComponent<PlayerMovement>().enabled = !isEnabled;
-        }
     }
 }

@@ -8,8 +8,9 @@ public class Chapter1CutsceneManager : MonoBehaviour
     public GameObject cutCam;
     public PlayerMovement playerMovement;
     public CircleTransition circleTransition;
+    public GameObject ziver;
 
-    void Awake()
+    void Start()
     {
         circleTransition = GameObject.FindGameObjectWithTag("CircleTransitionCanvas").GetComponent<CircleTransition>();
         playerMovement = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerMovement>();
@@ -26,6 +27,7 @@ public class Chapter1CutsceneManager : MonoBehaviour
         {
             cutCam.SetActive(false);
             mainCam.SetActive(true);
+            Destroy(ziver);
             Destroy(this.gameObject);
         }
     }

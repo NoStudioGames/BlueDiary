@@ -1081,6 +1081,8 @@ MonoBehaviour:
   - {fileID: 0}
   - {fileID: 0}
   isEnabled: 0
+  triggerable: 0
+  hasFinished: 0
 --- !u!114 &1572816963
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1257,9 +1259,9 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 1151048603
-  m_fontColor: {r: 0.6075471, g: 0.6075471, b: 0.6075471, a: 0.26666668}
-  m_enableVertexGradient: 1
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+  m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
     topLeft: {r: 1, g: 1, b: 1, a: 1}
@@ -1281,11 +1283,11 @@ MonoBehaviour:
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 0
+  m_fontStyle: 16
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 512
   m_textAlignment: 65535
-  m_characterSpacing: -12.12
+  m_characterSpacing: 0
   m_wordSpacing: 0
   m_lineSpacing: 0
   m_lineSpacingMax: 0
@@ -7466,9 +7468,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   textComponent: {fileID: 5209997168704685974}
   lines:
-  - "H\u0259r k\u0259s bu h\u0259yatda s\u0259vhl\u0259r edir..."
-  - "B\u0259zil\u0259rimiz bununla ya\u015Fama\u011Fa al\u0131\u015F\u0131r..."
-  - "Ama m\u0259nim 2. bir \u015Fans\u0131m daha var"
+  - Everyone makes mistakes in this life...
+  - Some of us learn to live with them...
+  - But I have one more chance...
   textSpeed: 0.1
   Panel: {fileID: 71616929962339632}
   isNear: 0
