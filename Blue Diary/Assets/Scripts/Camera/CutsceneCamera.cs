@@ -1,3 +1,4 @@
+using System.Collections;
 using UnityEngine;
 
 public class CutsceneCamera : MonoBehaviour
@@ -17,6 +18,8 @@ public class CutsceneCamera : MonoBehaviour
     public int targetIndex;
     public SmoothTranslator[] translator;
     public bool isEnabled;
+    public bool triggerable;
+    public bool hasFinished;
 
     void Start()
     {
@@ -29,7 +32,7 @@ public class CutsceneCamera : MonoBehaviour
 
     void Update()
     {
-        if (isEnabled)
+        if (isEnabled && !triggerable)
         {
             if (Input.GetKeyDown(KeyCode.Return))
             {
@@ -78,5 +81,45 @@ public class CutsceneCamera : MonoBehaviour
         Vector3 pos = new Vector3(); 
         pos.Set(target.transform.position.x, target.transform.position.y, transform.position.z);
         cameraObj.transform.position = Vector3.Lerp(transform.position, pos, followspeed * Time.deltaTime);
+    }
+
+    public void StartCutscene(float delay)
+    {
+        StartCoroutine(SetCutscene(delay));
+    }
+    IEnumerator SetCutscene(float delay)
+    {
+        while (isEnabled)
+        {
+            Debug.Log("hEre");
+            target = targets[targetIndex];
+            DirectPoint();
+            if (targetIndex + 1 >= targets.Length)
+            {
+                targetIndex = 0;
+                isEnabled = false;
+                hasFinished = true;
+                yield return new WaitForSeconds(0);
+            }
+            else
+            {
+                Vector3 pos = new Vector3();
+                pos.Set(target.transform.position.x, target.transform.position.y, transform.position.z);
+                if (cameraObj.transform.position == pos)
+                {
+                    targetIndex = targetIndex + 1;
+                }
+            }
+            cam.target.GetComponent<PlayerMovement>().animator.SetFloat("speed", 0);
+            for (int i = 0; i < translator.Length; i++)
+            {
+                if (!translator[i].canActivate)
+                {
+                    translator[i].active = isEnabled;
+                }
+            }
+            cam.enabled = !isEnabled;
+            cam.target.GetComponent<PlayerMovement>().enabled = !isEnabled;
+        }
     }
 }

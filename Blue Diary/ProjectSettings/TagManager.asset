@@ -13,6 +13,7 @@ TagManager:
   - Rocks
   - Throwable
   - Fireball
+  - CircleTransitionCanvas
   layers:
   - Default
   - TransparentFX

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      movludIcon_0: 7377432427896699886
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

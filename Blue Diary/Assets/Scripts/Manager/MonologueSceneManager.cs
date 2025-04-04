@@ -2,6 +2,7 @@ using UnityEngine;
 using TMPro;
 using System.Collections;
 using UnityEngine.SceneManagement;
+using Collections.Shaders.CircleTransition;
 
 public class MonologueSceneManager : MonoBehaviour
 {
@@ -17,10 +18,16 @@ public class MonologueSceneManager : MonoBehaviour
 
     public DialogueManager dialogueManager;
     public int gameLevelIndex;
+    public CircleTransition circleTransition;
     void Start()
     {
         movludInPlace = false;
         ziverInPlace = false;
+        circleTransition = GameObject.FindGameObjectWithTag("CircleTransitionCanvas").GetComponent<CircleTransition>();
+        if (circleTransition != null)
+        {
+            circleTransition.OpenBlackScreen();
+        }
     }
 
     void Update()
@@ -30,23 +37,34 @@ public class MonologueSceneManager : MonoBehaviour
 
         if(!movludInPlace && !ziverInPlace){
             pressBtnText.text = "press >";
-        }if(movludInPlace && !ziverInPlace){
-            pressBtnText.text = "press <";
-            if(changeMainPlayer.Movlud.enabled){
-                changeMainPlayer.ChangePlayer();
-            }
-        }if(movludInPlace && ziverInPlace){
+        }
+        if(movludInPlace && !ziverInPlace){
             pressBtnText.text = "press E";
-            if(changeMainPlayer.Ziver.enabled){
+            if (changeMainPlayer.Movlud.enabled){
+                changeMainPlayer.ChangePlayer();
                 changeMainPlayer.DeactivatePlayers();
                 dialogueManager.isActivated = true;
             }
         }
-        if(dialogueManager.dialogue.hasFinished){
+        if (dialogueManager.dialogue.hasFinished) {
+            pressBtnText.text = "press <";
+            if (!changeMainPlayer.Movlud.enabled)
+            {
+                changeMainPlayer.ActivatePlayers();
+                changeMainPlayer.ChangePlayer();
+            }
+        }
+        if (movludInPlace && ziverInPlace)
+        {
+            changeMainPlayer.DeactivatePlayers();
             StartCoroutine(HoldForNextScene(2));
         }
     }
     IEnumerator HoldForNextScene(float delay){
+        if(circleTransition != null)
+        {
+            circleTransition.CloseBlackScreenForCamera();
+        }
         yield return new WaitForSeconds(delay);
         SceneManager.LoadScene(gameLevelIndex);
     }

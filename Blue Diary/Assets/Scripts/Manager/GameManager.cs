@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using Collections.Shaders.CircleTransition;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
@@ -11,9 +12,15 @@ public class GameManager : MonoBehaviour
     public int levelindex;
     public Slider dashSlider;
     public PlayerMovement playerMovement;
+    public CircleTransition circleTransition;
 
     void Start()
     {
+        circleTransition = GameObject.FindGameObjectWithTag("CircleTransitionCanvas").GetComponent<CircleTransition>();
+        if(circleTransition != null )
+        {
+            circleTransition.OpenBlackScreen();
+        }
         ResumeGame();
         playerMovement = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerMovement>();
     }

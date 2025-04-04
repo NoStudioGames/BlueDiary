@@ -37,4 +37,11 @@ public class ChangeMainPlayer : MonoBehaviour
         Ziver.StopCharacter();
         Ziver.enabled = false;
     }
+    public void ActivatePlayers()
+    {
+        Movlud.ResumeCharacter();
+        Movlud.enabled = true;
+        Ziver.ResumeCharacter();
+        Ziver.enabled = true;
+    }
 }
