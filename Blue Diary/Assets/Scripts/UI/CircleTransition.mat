@@ -29,9 +29,15 @@ Material:
         m_Offset: {x: -0.13, y: -3.19}
     m_Ints: []
     m_Floats:
+<<<<<<< HEAD
     - _CenterX: 0.48916435
     - _CenterY: 0.24536994
     - _Radius: 1
+=======
+    - _CenterX: 0.5013342
+    - _CenterY: 0.5176296
+    - _Radius: 0
+>>>>>>> a0638f1bdcdca185228e6b88f6c3e8802714d3b4
     m_Colors:
     - _Color: {r: 0, g: 0, b: 0, a: 1}
   m_BuildTextureStacks: []
