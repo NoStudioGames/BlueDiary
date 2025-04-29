@@ -3146,6 +3146,8 @@ MonoBehaviour:
   - {fileID: 1143542402150038324}
   - {fileID: 1074838171947948869}
   isEnabled: 0
+  triggerable: 0
+  hasFinished: 0
 --- !u!114 &428987785
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11152,6 +11154,8 @@ MonoBehaviour:
   - {fileID: 1143542402150038324}
   - {fileID: 1074838171947948869}
   isEnabled: 0
+  triggerable: 0
+  hasFinished: 0
 --- !u!114 &1572816964
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23687,6 +23691,7 @@ MonoBehaviour:
   levelindex: 5
   dashSlider: {fileID: 3592057137045144205}
   playerMovement: {fileID: 0}
+  circleTransition: {fileID: 0}
 --- !u!1 &1794714351
 GameObject:
   m_ObjectHideFlags: 0
@@ -33895,7 +33900,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &3554164152508608141
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -37664,7 +37669,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1 &7010560529313561771
 GameObject:
   m_ObjectHideFlags: 0

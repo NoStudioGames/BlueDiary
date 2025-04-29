@@ -1,0 +1,3458 @@
+fileFormatVersion: 2
+guid: 798ddf1f2097bd34cab7d60235eb5421
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4646165046689230268
+    second: movlud animation-export_0
+  - first:
+      213: -1288171597921120433
+    second: movlud animation-export_1
+  - first:
+      213: 3091544579517098751
+    second: movlud animation-export_2
+  - first:
+      213: 4971606326907051395
+    second: movlud animation-export_3
+  - first:
+      213: -6615054091655484157
+    second: movlud animation-export_4
+  - first:
+      213: 424844850085340491
+    second: movlud animation-export_5
+  - first:
+      213: 1589931101895963196
+    second: movlud animation-export_6
+  - first:
+      213: -400190574910668641
+    second: movlud animation-export_7
+  - first:
+      213: -1178683027476534118
+    second: movlud animation-export_8
+  - first:
+      213: 5607573041871674358
+    second: movlud animation-export_9
+  - first:
+      213: 6027389467302725769
+    second: movlud animation-export_10
+  - first:
+      213: 5861068985888488973
+    second: movlud animation-export_11
+  - first:
+      213: 7294917417103895956
+    second: movlud animation-export_12
+  - first:
+      213: 3746305448384760884
+    second: movlud animation-export_13
+  - first:
+      213: -7410514878042340802
+    second: movlud animation-export_14
+  - first:
+      213: 8458412959952681381
+    second: movlud animation-export_15
+  - first:
+      213: 3495665143278461530
+    second: movlud animation-export_16
+  - first:
+      213: 2997798576540931350
+    second: movlud animation-export_17
+  - first:
+      213: -924467491196926098
+    second: movlud animation-export_18
+  - first:
+      213: 2747813203011358848
+    second: movlud animation-export_19
+  - first:
+      213: 3615520512902511785
+    second: movlud animation-export_20
+  - first:
+      213: 3588607583682451780
+    second: movlud animation-export_21
+  - first:
+      213: -5526633347866843502
+    second: movlud animation-export_22
+  - first:
+      213: -198467285793772264
+    second: movlud animation-export_23
+  - first:
+      213: 1047290295683615360
+    second: movlud animation-export_24
+  - first:
+      213: -3510099322114725111
+    second: movlud animation-export_25
+  - first:
+      213: 4810678939905815095
+    second: movlud animation-export_26
+  - first:
+      213: -1644486062487566431
+    second: movlud animation-export_27
+  - first:
+      213: -1745430948744541564
+    second: movlud animation-export_28
+  - first:
+      213: 4961947186988480976
+    second: movlud animation-export_29
+  - first:
+      213: -5705024946262116579
+    second: movlud animation-export_30
+  - first:
+      213: -1248800605851636482
+    second: movlud animation-export_31
+  - first:
+      213: 5415644674802386055
+    second: movlud animation-export_32
+  - first:
+      213: -3114366396452427191
+    second: movlud animation-export_33
+  - first:
+      213: -5417839352259318675
+    second: movlud animation-export_34
+  - first:
+      213: -3323417090713456058
+    second: movlud animation-export_35
+  - first:
+      213: 8352128483266452423
+    second: movlud animation-export_36
+  - first:
+      213: 7341333263481026953
+    second: movlud animation-export_37
+  - first:
+      213: -8561636921415951839
+    second: movlud animation-export_38
+  - first:
+      213: -1743272411725663742
+    second: movlud animation-export_39
+  - first:
+      213: 8026565082772684665
+    second: movlud animation-export_40
+  - first:
+      213: -45807576893550555
+    second: movlud animation-export_41
+  - first:
+      213: -3939046149810608665
+    second: movlud animation-export_42
+  - first:
+      213: 2706129153688644717
+    second: movlud animation-export_43
+  - first:
+      213: -4508870988171058562
+    second: movlud animation-export_44
+  - first:
+      213: 7657969835820431427
+    second: movlud animation-export_45
+  - first:
+      213: -5055339638736941112
+    second: movlud animation-export_46
+  - first:
+      213: -2348738441720656998
+    second: movlud animation-export_47
+  - first:
+      213: 8800882342163489701
+    second: movlud animation-export_48
+  - first:
+      213: 5641089063487003225
+    second: movlud animation-export_49
+  - first:
+      213: 1673786290514528077
+    second: movlud animation-export_50
+  - first:
+      213: -5772894177647821029
+    second: movlud animation-export_51
+  - first:
+      213: -3232487950841858967
+    second: movlud animation-export_52
+  - first:
+      213: -374844852219592780
+    second: movlud animation-export_53
+  - first:
+      213: -5204943685038834339
+    second: movlud animation-export_54
+  - first:
+      213: 4378623505391892983
+    second: movlud animation-export_55
+  - first:
+      213: 5385107896569807622
+    second: movlud animation-export_56
+  - first:
+      213: -6880019102444618674
+    second: movlud animation-export_57
+  - first:
+      213: -5573252151597810913
+    second: movlud animation-export_58
+  - first:
+      213: 4313647894956982895
+    second: movlud animation-export_59
+  - first:
+      213: 1762280646444276351
+    second: movlud animation-export_60
+  - first:
+      213: -6009560078070074401
+    second: movlud animation-export_61
+  - first:
+      213: 2973261574830310841
+    second: movlud animation-export_62
+  - first:
+      213: 883441415968373541
+    second: movlud animation-export_63
+  - first:
+      213: 6200099634842301916
+    second: movlud animation-export_64
+  - first:
+      213: -481065638141429933
+    second: movlud animation-export_65
+  - first:
+      213: 9103627228475798115
+    second: movlud animation-export_66
+  - first:
+      213: 7113546249068074704
+    second: movlud animation-export_67
+  - first:
+      213: -1578214972519867569
+    second: movlud animation-export_68
+  - first:
+      213: 5385858344470259697
+    second: movlud animation-export_69
+  - first:
+      213: 7174793070328029333
+    second: movlud animation-export_70
+  - first:
+      213: 4552999265952952422
+    second: movlud animation-export_71
+  - first:
+      213: 6776148985962160889
+    second: movlud animation-export_72
+  - first:
+      213: -7441866624250561435
+    second: movlud animation-export_73
+  - first:
+      213: 1550252588008299662
+    second: movlud animation-export_74
+  - first:
+      213: 2141900872698320774
+    second: movlud animation-export_75
+  - first:
+      213: -7923589667340862308
+    second: movlud animation-export_76
+  - first:
+      213: -6586363769621579628
+    second: movlud animation-export_77
+  - first:
+      213: 3028755599703106890
+    second: movlud animation-export_78
+  - first:
+      213: -1141567623209234945
+    second: movlud animation-export_79
+  - first:
+      213: 1983669520525656270
+    second: movlud animation-export_80
+  - first:
+      213: 1845519207025013000
+    second: movlud animation-export_81
+  - first:
+      213: 6016771967309906848
+    second: movlud animation-export_82
+  - first:
+      213: -4846815916146023668
+    second: movlud animation-export_83
+  - first:
+      213: -7733300709290090088
+    second: movlud animation-export_84
+  - first:
+      213: -8098666115913557059
+    second: movlud animation-export_85
+  - first:
+      213: -4532353337100529513
+    second: movlud animation-export_86
+  - first:
+      213: 4534222635152589281
+    second: movlud animation-export_87
+  - first:
+      213: -2429464380887398904
+    second: movlud animation-export_88
+  - first:
+      213: 8216415105200589221
+    second: movlud animation-export_89
+  - first:
+      213: 8436075412545592504
+    second: movlud animation-export_90
+  - first:
+      213: 852357805780696305
+    second: movlud animation-export_91
+  - first:
+      213: -8173238253543895227
+    second: movlud animation-export_92
+  - first:
+      213: -2587115516655430551
+    second: movlud animation-export_93
+  - first:
+      213: -4228966059194902007
+    second: movlud animation-export_94
+  - first:
+      213: 6239902893576362288
+    second: movlud animation-export_95
+  - first:
+      213: 2203283900220811003
+    second: movlud animation-export_96
+  - first:
+      213: 4598103879232063227
+    second: movlud animation-export_97
+  - first:
+      213: 7813144932649038282
+    second: movlud animation-export_98
+  - first:
+      213: -7277590826093300545
+    second: movlud animation-export_99
+  - first:
+      213: -8549118482627883394
+    second: movlud animation-export_100
+  - first:
+      213: 5431786769400654759
+    second: movlud animation-export_101
+  - first:
+      213: -7128155181852795229
+    second: movlud animation-export_102
+  - first:
+      213: -7631681323387890849
+    second: movlud animation-export_103
+  - first:
+      213: 7241357908496006506
+    second: movlud animation-export_104
+  - first:
+      213: 587685525011157126
+    second: movlud animation-export_105
+  - first:
+      213: -1941018192981878180
+    second: movlud animation-export_106
+  - first:
+      213: 1519489549656005287
+    second: movlud animation-export_107
+  - first:
+      213: -7369206961750133996
+    second: movlud animation-export_108
+  - first:
+      213: -5598733319296054585
+    second: movlud animation-export_109
+  - first:
+      213: 2175525974077318481
+    second: movlud animation-export_110
+  - first:
+      213: 1095455521311987847
+    second: movlud animation-export_111
+  - first:
+      213: -1719739095545977821
+    second: movlud animation-export_112
+  - first:
+      213: 7762220677618593148
+    second: movlud animation-export_113
+  - first:
+      213: 7871793780851771761
+    second: movlud animation-export_114
+  - first:
+      213: 8891293711561189428
+    second: movlud animation-export_115
+  - first:
+      213: 5777869486186030576
+    second: movlud animation-export_116
+  - first:
+      213: -2301195470871269391
+    second: movlud animation-export_117
+  - first:
+      213: -2128732167579123070
+    second: movlud animation-export_118
+  - first:
+      213: 3282726371307842508
+    second: movlud animation-export_119
+  - first:
+      213: -5374441775625592997
+    second: movlud animation-export_120
+  - first:
+      213: 2523852673432318032
+    second: movlud animation-export_121
+  - first:
+      213: 6990322922846720609
+    second: movlud animation-export_122
+  - first:
+      213: 1124675346049588590
+    second: movlud animation-export_123
+  - first:
+      213: 3953180606822245187
+    second: movlud animation-export_124
+  - first:
+      213: -3115679357947568778
+    second: movlud animation-export_125
+  - first:
+      213: 1820580560231484666
+    second: movlud animation-export_126
+  - first:
+      213: 1358872718088997569
+    second: movlud animation-export_127
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: movlud animation-export_0
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 4475
+        width: 280
+        height: 530
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4429048a181858fb0800000000000000
+      internalID: -4646165046689230268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_1
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 4475
+        width: 280
+        height: 540
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f0a28b1ce7f1ee0800000000000000
+      internalID: -1288171597921120433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_2
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 4475
+        width: 280
+        height: 550
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffaa6655a6f57ea20800000000000000
+      internalID: 3091544579517098751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_3
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 4475
+        width: 280
+        height: 550
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d11661d91bef440800000000000000
+      internalID: 4971606326907051395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_4
+      rect:
+        serializedVersion: 2
+        x: 2745
+        y: 4475
+        width: 280
+        height: 540
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d61e80a5b9234a0800000000000000
+      internalID: -6615054091655484157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_5
+      rect:
+        serializedVersion: 2
+        x: 3385
+        y: 4475
+        width: 280
+        height: 530
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45adf5e32a55e500800000000000000
+      internalID: 424844850085340491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_6
+      rect:
+        serializedVersion: 2
+        x: 4025
+        y: 4475
+        width: 280
+        height: 520
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32bad1d9e1901610800000000000000
+      internalID: 1589931101895963196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_7
+      rect:
+        serializedVersion: 2
+        x: 4665
+        y: 4475
+        width: 280
+        height: 530
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f908dfbdacc327af0800000000000000
+      internalID: -400190574910668641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_8
+      rect:
+        serializedVersion: 2
+        x: 5305
+        y: 4475
+        width: 280
+        height: 530
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9caa7c080a74afe0800000000000000
+      internalID: -1178683027476534118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_9
+      rect:
+        serializedVersion: 2
+        x: 5945
+        y: 4475
+        width: 280
+        height: 530
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb51dca8f912dd40800000000000000
+      internalID: 5607573041871674358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_10
+      rect:
+        serializedVersion: 2
+        x: 6585
+        y: 4475
+        width: 280
+        height: 530
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 988828939c695a350800000000000000
+      internalID: 6027389467302725769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_11
+      rect:
+        serializedVersion: 2
+        x: 7225
+        y: 4475
+        width: 280
+        height: 530
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e31fb7033b65150800000000000000
+      internalID: 5861068985888488973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_12
+      rect:
+        serializedVersion: 2
+        x: 7865
+        y: 4475
+        width: 280
+        height: 530
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49da940adb0cc3560800000000000000
+      internalID: 7294917417103895956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_13
+      rect:
+        serializedVersion: 2
+        x: 8505
+        y: 4475
+        width: 280
+        height: 530
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c851fd4fc8df330800000000000000
+      internalID: 3746305448384760884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_14
+      rect:
+        serializedVersion: 2
+        x: 9145
+        y: 4475
+        width: 280
+        height: 530
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e320a832bff882990800000000000000
+      internalID: -7410514878042340802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_15
+      rect:
+        serializedVersion: 2
+        x: 9785
+        y: 4475
+        width: 280
+        height: 530
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a93a81c5c1526570800000000000000
+      internalID: 8458412959952681381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_16
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 3835
+        width: 280
+        height: 530
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52e3de4de8138030800000000000000
+      internalID: 3495665143278461530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_17
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 3835
+        width: 280
+        height: 540
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615d4ee1ce15a9920800000000000000
+      internalID: 2997798576540931350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_18
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 3835
+        width: 280
+        height: 550
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e678fccf6b1ab23f0800000000000000
+      internalID: -924467491196926098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_19
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 3835
+        width: 280
+        height: 550
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 080de92bc81322620800000000000000
+      internalID: 2747813203011358848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_20
+      rect:
+        serializedVersion: 2
+        x: 2745
+        y: 3835
+        width: 280
+        height: 550
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac31b920c8ec2230800000000000000
+      internalID: 3615520512902511785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_21
+      rect:
+        serializedVersion: 2
+        x: 3385
+        y: 3835
+        width: 280
+        height: 540
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4495aa7859b4dc130800000000000000
+      internalID: 3588607583682451780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_22
+      rect:
+        serializedVersion: 2
+        x: 4025
+        y: 3835
+        width: 280
+        height: 520
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296a19060447d43b0800000000000000
+      internalID: -5526633347866843502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_23
+      rect:
+        serializedVersion: 2
+        x: 4665
+        y: 3835
+        width: 280
+        height: 530
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81de9ba1e07ee3df0800000000000000
+      internalID: -198467285793772264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_24
+      rect:
+        serializedVersion: 2
+        x: 5305
+        y: 3835
+        width: 280
+        height: 530
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a8fe2a9f8b88e00800000000000000
+      internalID: 1047290295683615360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_25
+      rect:
+        serializedVersion: 2
+        x: 5945
+        y: 3835
+        width: 280
+        height: 530
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b230b834f994fc0800000000000000
+      internalID: -3510099322114725111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_26
+      rect:
+        serializedVersion: 2
+        x: 6585
+        y: 3835
+        width: 280
+        height: 530
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732f98df107f2c240800000000000000
+      internalID: 4810678939905815095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_27
+      rect:
+        serializedVersion: 2
+        x: 7225
+        y: 3835
+        width: 280
+        height: 530
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7095793ac9d29e0800000000000000
+      internalID: -1644486062487566431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_28
+      rect:
+        serializedVersion: 2
+        x: 7865
+        y: 3835
+        width: 280
+        height: 530
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48acb10cccbf6c7e0800000000000000
+      internalID: -1745430948744541564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_29
+      rect:
+        serializedVersion: 2
+        x: 8505
+        y: 3835
+        width: 280
+        height: 530
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d972b25da06cd440800000000000000
+      internalID: 4961947186988480976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_30
+      rect:
+        serializedVersion: 2
+        x: 9145
+        y: 3835
+        width: 280
+        height: 530
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17fd43b90ea3d0b0800000000000000
+      internalID: -5705024946262116579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_31
+      rect:
+        serializedVersion: 2
+        x: 9785
+        y: 3835
+        width: 280
+        height: 530
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efcabe4277e5baee0800000000000000
+      internalID: -1248800605851636482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_32
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 3195
+        width: 210
+        height: 530
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784055f632c382b40800000000000000
+      internalID: 5415644674802386055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_33
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 3195
+        width: 210
+        height: 540
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a2a07534c87c4d0800000000000000
+      internalID: -3114366396452427191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_34
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 3195
+        width: 210
+        height: 550
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c637660d7ffc4b0800000000000000
+      internalID: -5417839352259318675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_35
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 3195
+        width: 210
+        height: 550
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642ff83a3c9d0e1d0800000000000000
+      internalID: -3323417090713456058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_36
+      rect:
+        serializedVersion: 2
+        x: 2775
+        y: 3195
+        width: 210
+        height: 540
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cbd483aa98b8e370800000000000000
+      internalID: 8352128483266452423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_37
+      rect:
+        serializedVersion: 2
+        x: 3415
+        y: 3195
+        width: 210
+        height: 530
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989bb8305b7a1e560800000000000000
+      internalID: 7341333263481026953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_38
+      rect:
+        serializedVersion: 2
+        x: 4055
+        y: 3195
+        width: 210
+        height: 520
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a122bd494fe2980800000000000000
+      internalID: -8561636921415951839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_39
+      rect:
+        serializedVersion: 2
+        x: 4695
+        y: 3195
+        width: 210
+        height: 530
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2027a505af6aec7e0800000000000000
+      internalID: -1743272411725663742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_40
+      rect:
+        serializedVersion: 2
+        x: 5335
+        y: 3195
+        width: 210
+        height: 530
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f383d8a66146f60800000000000000
+      internalID: 8026565082772684665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_41
+      rect:
+        serializedVersion: 2
+        x: 5975
+        y: 3195
+        width: 210
+        height: 530
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5201d3360424d5ff0800000000000000
+      internalID: -45807576893550555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_42
+      rect:
+        serializedVersion: 2
+        x: 6615
+        y: 3195
+        width: 210
+        height: 530
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e52bae8562b559c0800000000000000
+      internalID: -3939046149810608665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_43
+      rect:
+        serializedVersion: 2
+        x: 7255
+        y: 3195
+        width: 210
+        height: 530
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ca0f9a02a1e8520800000000000000
+      internalID: 2706129153688644717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_44
+      rect:
+        serializedVersion: 2
+        x: 7895
+        y: 3195
+        width: 210
+        height: 530
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72effba9b54d61c0800000000000000
+      internalID: -4508870988171058562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_45
+      rect:
+        serializedVersion: 2
+        x: 8535
+        y: 3195
+        width: 210
+        height: 530
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348bbb4fdf2964a60800000000000000
+      internalID: 7657969835820431427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_46
+      rect:
+        serializedVersion: 2
+        x: 9175
+        y: 3195
+        width: 210
+        height: 530
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf02260263d7d9b0800000000000000
+      internalID: -5055339638736941112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_47
+      rect:
+        serializedVersion: 2
+        x: 9815
+        y: 3195
+        width: 210
+        height: 530
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b8fe6d4da976fd0800000000000000
+      internalID: -2348738441720656998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_48
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 2555
+        width: 210
+        height: 530
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3a9a27cd3032a70800000000000000
+      internalID: 8800882342163489701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_49
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 2555
+        width: 210
+        height: 540
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95adb7f8d9c294e40800000000000000
+      internalID: 5641089063487003225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_50
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 2555
+        width: 210
+        height: 550
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47890c53cb7a3710800000000000000
+      internalID: 1673786290514528077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_51
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 2555
+        width: 210
+        height: 550
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f716fd45f82efa0800000000000000
+      internalID: -5772894177647821029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_52
+      rect:
+        serializedVersion: 2
+        x: 2775
+        y: 2555
+        width: 210
+        height: 540
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964375dc555e323d0800000000000000
+      internalID: -3232487950841858967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_53
+      rect:
+        serializedVersion: 2
+        x: 3415
+        y: 2555
+        width: 210
+        height: 530
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf3199c7984ccaf0800000000000000
+      internalID: -374844852219592780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_54
+      rect:
+        serializedVersion: 2
+        x: 4055
+        y: 2555
+        width: 210
+        height: 520
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5df851ab4354c7b0800000000000000
+      internalID: -5204943685038834339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_55
+      rect:
+        serializedVersion: 2
+        x: 4695
+        y: 2555
+        width: 210
+        height: 530
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f93f0411eef3cc30800000000000000
+      internalID: 4378623505391892983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_56
+      rect:
+        serializedVersion: 2
+        x: 5335
+        y: 2555
+        width: 210
+        height: 530
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603c134b91fbbba40800000000000000
+      internalID: 5385107896569807622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_57
+      rect:
+        serializedVersion: 2
+        x: 5975
+        y: 2555
+        width: 210
+        height: 530
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4cf2e604134580a0800000000000000
+      internalID: -6880019102444618674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_58
+      rect:
+        serializedVersion: 2
+        x: 6615
+        y: 2555
+        width: 210
+        height: 530
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1bb45c42b4d7a2b0800000000000000
+      internalID: -5573252151597810913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_59
+      rect:
+        serializedVersion: 2
+        x: 7255
+        y: 2555
+        width: 210
+        height: 530
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62c501e7e72ddb30800000000000000
+      internalID: 4313647894956982895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_60
+      rect:
+        serializedVersion: 2
+        x: 7895
+        y: 2555
+        width: 210
+        height: 530
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a5bd539e0e47810800000000000000
+      internalID: 1762280646444276351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_61
+      rect:
+        serializedVersion: 2
+        x: 8535
+        y: 2555
+        width: 210
+        height: 530
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3b342f2f0c99ca0800000000000000
+      internalID: -6009560078070074401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_62
+      rect:
+        serializedVersion: 2
+        x: 9175
+        y: 2555
+        width: 210
+        height: 530
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5441836a5234920800000000000000
+      internalID: 2973261574830310841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_63
+      rect:
+        serializedVersion: 2
+        x: 9815
+        y: 2555
+        width: 210
+        height: 530
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52bb9a2894d924c00800000000000000
+      internalID: 883441415968373541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_64
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1915
+        width: 280
+        height: 530
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5fdc2b4cd2b0650800000000000000
+      internalID: 6200099634842301916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_65
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 1915
+        width: 260
+        height: 540
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357fee4d959e259f0800000000000000
+      internalID: -481065638141429933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_66
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 1915
+        width: 240
+        height: 540
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362bfd03bb4965e70800000000000000
+      internalID: 9103627228475798115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_67
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 1915
+        width: 260
+        height: 530
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6d305df9468b260800000000000000
+      internalID: 7113546249068074704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_68
+      rect:
+        serializedVersion: 2
+        x: 2745
+        y: 1915
+        width: 280
+        height: 520
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b10cf18dd091ae0800000000000000
+      internalID: -1578214972519867569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_69
+      rect:
+        serializedVersion: 2
+        x: 3395
+        y: 1915
+        width: 260
+        height: 530
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f729b8f0a96eba40800000000000000
+      internalID: 5385858344470259697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_70
+      rect:
+        serializedVersion: 2
+        x: 4045
+        y: 1915
+        width: 240
+        height: 540
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59026d5a84cf19360800000000000000
+      internalID: 7174793070328029333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_71
+      rect:
+        serializedVersion: 2
+        x: 4675
+        y: 1915
+        width: 260
+        height: 530
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6607db5a5b08f2f30800000000000000
+      internalID: 4552999265952952422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_72
+      rect:
+        serializedVersion: 2
+        x: 5305
+        y: 1915
+        width: 280
+        height: 530
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2e565e997b90e50800000000000000
+      internalID: 6776148985962160889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_73
+      rect:
+        serializedVersion: 2
+        x: 5955
+        y: 1915
+        width: 260
+        height: 540
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56cb5b3ebbd29b890800000000000000
+      internalID: -7441866624250561435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_74
+      rect:
+        serializedVersion: 2
+        x: 6605
+        y: 1915
+        width: 240
+        height: 540
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c5d54e38a938510800000000000000
+      internalID: 1550252588008299662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_75
+      rect:
+        serializedVersion: 2
+        x: 7235
+        y: 1915
+        width: 260
+        height: 530
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6875845de7f89bd10800000000000000
+      internalID: 2141900872698320774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_76
+      rect:
+        serializedVersion: 2
+        x: 7865
+        y: 1915
+        width: 280
+        height: 520
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c3134bd21c90290800000000000000
+      internalID: -7923589667340862308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_77
+      rect:
+        serializedVersion: 2
+        x: 8515
+        y: 1915
+        width: 260
+        height: 530
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498f33e2c098894a0800000000000000
+      internalID: -6586363769621579628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_78
+      rect:
+        serializedVersion: 2
+        x: 9165
+        y: 1915
+        width: 240
+        height: 540
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4567cfbb2d480a20800000000000000
+      internalID: 3028755599703106890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_79
+      rect:
+        serializedVersion: 2
+        x: 9795
+        y: 1915
+        width: 260
+        height: 530
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffdc6838b465820f0800000000000000
+      internalID: -1141567623209234945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_80
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1275
+        width: 280
+        height: 530
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec083b24be8678b10800000000000000
+      internalID: 1983669520525656270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_81
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 1275
+        width: 260
+        height: 540
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 801f2e8d0f99c9910800000000000000
+      internalID: 1845519207025013000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_82
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 1275
+        width: 240
+        height: 540
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3090ed93edf7350800000000000000
+      internalID: 6016771967309906848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_83
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 1275
+        width: 260
+        height: 530
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0328629a96acbcb0800000000000000
+      internalID: -4846815916146023668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_84
+      rect:
+        serializedVersion: 2
+        x: 2745
+        y: 1275
+        width: 280
+        height: 530
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891ec794afbcda490800000000000000
+      internalID: -7733300709290090088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_85
+      rect:
+        serializedVersion: 2
+        x: 3395
+        y: 1275
+        width: 260
+        height: 540
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbbda7e7312cb9f80800000000000000
+      internalID: -8098666115913557059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_86
+      rect:
+        serializedVersion: 2
+        x: 4045
+        y: 1275
+        width: 240
+        height: 540
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790119147a8d911c0800000000000000
+      internalID: -4532353337100529513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_87
+      rect:
+        serializedVersion: 2
+        x: 4675
+        y: 1275
+        width: 260
+        height: 540
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e14ecc967bccee30800000000000000
+      internalID: 4534222635152589281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_88
+      rect:
+        serializedVersion: 2
+        x: 5305
+        y: 1275
+        width: 280
+        height: 530
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8060eb6740fc84ed0800000000000000
+      internalID: -2429464380887398904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_89
+      rect:
+        serializedVersion: 2
+        x: 5955
+        y: 1275
+        width: 260
+        height: 540
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a982a87102960270800000000000000
+      internalID: 8216415105200589221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_90
+      rect:
+        serializedVersion: 2
+        x: 6605
+        y: 1275
+        width: 240
+        height: 540
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bcdf2734e5f21570800000000000000
+      internalID: 8436075412545592504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_91
+      rect:
+        serializedVersion: 2
+        x: 7235
+        y: 1275
+        width: 260
+        height: 530
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fcf61b88ee24db00800000000000000
+      internalID: 852357805780696305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_92
+      rect:
+        serializedVersion: 2
+        x: 7865
+        y: 1275
+        width: 280
+        height: 530
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54fc1e0bc13d29e80800000000000000
+      internalID: -8173238253543895227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_93
+      rect:
+        serializedVersion: 2
+        x: 8515
+        y: 1275
+        width: 260
+        height: 540
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9641adc0528b81cd0800000000000000
+      internalID: -2587115516655430551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_94
+      rect:
+        serializedVersion: 2
+        x: 9165
+        y: 1275
+        width: 240
+        height: 540
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a118276c1bf45c0800000000000000
+      internalID: -4228966059194902007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_95
+      rect:
+        serializedVersion: 2
+        x: 9795
+        y: 1275
+        width: 260
+        height: 540
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0391d8c0f96989650800000000000000
+      internalID: 6239902893576362288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_96
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 635
+        width: 210
+        height: 530
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6aff3a803a39e10800000000000000
+      internalID: 2203283900220811003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_97
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 635
+        width: 230
+        height: 520
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf609f9cd1fbfcf30800000000000000
+      internalID: 4598103879232063227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_98
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 635
+        width: 210
+        height: 530
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac17031abeddd6c60800000000000000
+      internalID: 7813144932649038282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_99
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 635
+        width: 210
+        height: 540
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb43116b3bdc00b90800000000000000
+      internalID: -7277590826093300545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_100
+      rect:
+        serializedVersion: 2
+        x: 2765
+        y: 635
+        width: 220
+        height: 530
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e0d34090e6b5980800000000000000
+      internalID: -8549118482627883394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_101
+      rect:
+        serializedVersion: 2
+        x: 3415
+        y: 635
+        width: 210
+        height: 520
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7abeac5b945916b40800000000000000
+      internalID: 5431786769400654759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_102
+      rect:
+        serializedVersion: 2
+        x: 4055
+        y: 635
+        width: 210
+        height: 530
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aeddc1f0a4b31d90800000000000000
+      internalID: -7128155181852795229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_103
+      rect:
+        serializedVersion: 2
+        x: 4685
+        y: 635
+        width: 220
+        height: 540
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f535b705542d61690800000000000000
+      internalID: -7631681323387890849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_104
+      rect:
+        serializedVersion: 2
+        x: 5335
+        y: 635
+        width: 210
+        height: 530
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6dbe53c6a87e7460800000000000000
+      internalID: 7241357908496006506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_105
+      rect:
+        serializedVersion: 2
+        x: 5955
+        y: 635
+        width: 230
+        height: 520
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680dded0fd0e72800800000000000000
+      internalID: 587685525011157126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_106
+      rect:
+        serializedVersion: 2
+        x: 6615
+        y: 635
+        width: 210
+        height: 530
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a9eb8cc3e1015e0800000000000000
+      internalID: -1941018192981878180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_107
+      rect:
+        serializedVersion: 2
+        x: 7255
+        y: 635
+        width: 210
+        height: 540
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa1a2fd1bf461510800000000000000
+      internalID: 1519489549656005287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_108
+      rect:
+        serializedVersion: 2
+        x: 7885
+        y: 635
+        width: 220
+        height: 530
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4133c80ef415bb990800000000000000
+      internalID: -7369206961750133996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_109
+      rect:
+        serializedVersion: 2
+        x: 8535
+        y: 635
+        width: 210
+        height: 520
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca073f95bd4d42b0800000000000000
+      internalID: -5598733319296054585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_110
+      rect:
+        serializedVersion: 2
+        x: 9175
+        y: 635
+        width: 210
+        height: 530
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155a384d855013e10800000000000000
+      internalID: 2175525974077318481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_111
+      rect:
+        serializedVersion: 2
+        x: 9805
+        y: 635
+        width: 220
+        height: 540
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7889a0f1ef6d33f00800000000000000
+      internalID: 1095455521311987847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_112
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 0
+        width: 210
+        height: 525
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32461a777624228e0800000000000000
+      internalID: -1719739095545977821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_113
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 0
+        width: 230
+        height: 515
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7de5ad8492f8bb60800000000000000
+      internalID: 7762220677618593148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_114
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 0
+        width: 210
+        height: 525
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1798cc4bcba3e3d60800000000000000
+      internalID: 7871793780851771761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_115
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 0
+        width: 210
+        height: 535
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438e447c588346b70800000000000000
+      internalID: 8891293711561189428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_116
+      rect:
+        serializedVersion: 2
+        x: 2775
+        y: 0
+        width: 220
+        height: 525
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5efaa6fad1f2050800000000000000
+      internalID: 5777869486186030576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_117
+      rect:
+        serializedVersion: 2
+        x: 3415
+        y: 0
+        width: 210
+        height: 515
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ffeaf759e28010e0800000000000000
+      internalID: -2301195470871269391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_118
+      rect:
+        serializedVersion: 2
+        x: 4055
+        y: 0
+        width: 210
+        height: 525
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282cf714f593572e0800000000000000
+      internalID: -2128732167579123070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_119
+      rect:
+        serializedVersion: 2
+        x: 4695
+        y: 0
+        width: 220
+        height: 535
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb6c98fd369e8d20800000000000000
+      internalID: 3282726371307842508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_120
+      rect:
+        serializedVersion: 2
+        x: 5335
+        y: 0
+        width: 210
+        height: 525
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f11d91ea52a65b0800000000000000
+      internalID: -5374441775625592997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_121
+      rect:
+        serializedVersion: 2
+        x: 5975
+        y: 0
+        width: 230
+        height: 515
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0507a5172a6860320800000000000000
+      internalID: 2523852673432318032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_122
+      rect:
+        serializedVersion: 2
+        x: 6615
+        y: 0
+        width: 210
+        height: 525
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1629c8979ad920160800000000000000
+      internalID: 6990322922846720609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_123
+      rect:
+        serializedVersion: 2
+        x: 7255
+        y: 0
+        width: 210
+        height: 535
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ddce8b446ab9f00800000000000000
+      internalID: 1124675346049588590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_124
+      rect:
+        serializedVersion: 2
+        x: 7895
+        y: 0
+        width: 220
+        height: 525
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3436a9a21d48cd630800000000000000
+      internalID: 3953180606822245187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_125
+      rect:
+        serializedVersion: 2
+        x: 8535
+        y: 0
+        width: 210
+        height: 515
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d948ba122e2c4d0800000000000000
+      internalID: -3115679357947568778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_126
+      rect:
+        serializedVersion: 2
+        x: 9175
+        y: 0
+        width: 210
+        height: 525
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc4499af50044910800000000000000
+      internalID: 1820580560231484666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movlud animation-export_127
+      rect:
+        serializedVersion: 2
+        x: 9815
+        y: 0
+        width: 220
+        height: 535
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca0aa8998fabd210800000000000000
+      internalID: 1358872718088997569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b71794075e2072349afedc9b00474c19
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      movlud animation-export_0: -4646165046689230268
+      movlud animation-export_1: -1288171597921120433
+      movlud animation-export_10: 6027389467302725769
+      movlud animation-export_100: -8549118482627883394
+      movlud animation-export_101: 5431786769400654759
+      movlud animation-export_102: -7128155181852795229
+      movlud animation-export_103: -7631681323387890849
+      movlud animation-export_104: 7241357908496006506
+      movlud animation-export_105: 587685525011157126
+      movlud animation-export_106: -1941018192981878180
+      movlud animation-export_107: 1519489549656005287
+      movlud animation-export_108: -7369206961750133996
+      movlud animation-export_109: -5598733319296054585
+      movlud animation-export_11: 5861068985888488973
+      movlud animation-export_110: 2175525974077318481
+      movlud animation-export_111: 1095455521311987847
+      movlud animation-export_112: -1719739095545977821
+      movlud animation-export_113: 7762220677618593148
+      movlud animation-export_114: 7871793780851771761
+      movlud animation-export_115: 8891293711561189428
+      movlud animation-export_116: 5777869486186030576
+      movlud animation-export_117: -2301195470871269391
+      movlud animation-export_118: -2128732167579123070
+      movlud animation-export_119: 3282726371307842508
+      movlud animation-export_12: 7294917417103895956
+      movlud animation-export_120: -5374441775625592997
+      movlud animation-export_121: 2523852673432318032
+      movlud animation-export_122: 6990322922846720609
+      movlud animation-export_123: 1124675346049588590
+      movlud animation-export_124: 3953180606822245187
+      movlud animation-export_125: -3115679357947568778
+      movlud animation-export_126: 1820580560231484666
+      movlud animation-export_127: 1358872718088997569
+      movlud animation-export_13: 3746305448384760884
+      movlud animation-export_14: -7410514878042340802
+      movlud animation-export_15: 8458412959952681381
+      movlud animation-export_16: 3495665143278461530
+      movlud animation-export_17: 2997798576540931350
+      movlud animation-export_18: -924467491196926098
+      movlud animation-export_19: 2747813203011358848
+      movlud animation-export_2: 3091544579517098751
+      movlud animation-export_20: 3615520512902511785
+      movlud animation-export_21: 3588607583682451780
+      movlud animation-export_22: -5526633347866843502
+      movlud animation-export_23: -198467285793772264
+      movlud animation-export_24: 1047290295683615360
+      movlud animation-export_25: -3510099322114725111
+      movlud animation-export_26: 4810678939905815095
+      movlud animation-export_27: -1644486062487566431
+      movlud animation-export_28: -1745430948744541564
+      movlud animation-export_29: 4961947186988480976
+      movlud animation-export_3: 4971606326907051395
+      movlud animation-export_30: -5705024946262116579
+      movlud animation-export_31: -1248800605851636482
+      movlud animation-export_32: 5415644674802386055
+      movlud animation-export_33: -3114366396452427191
+      movlud animation-export_34: -5417839352259318675
+      movlud animation-export_35: -3323417090713456058
+      movlud animation-export_36: 8352128483266452423
+      movlud animation-export_37: 7341333263481026953
+      movlud animation-export_38: -8561636921415951839
+      movlud animation-export_39: -1743272411725663742
+      movlud animation-export_4: -6615054091655484157
+      movlud animation-export_40: 8026565082772684665
+      movlud animation-export_41: -45807576893550555
+      movlud animation-export_42: -3939046149810608665
+      movlud animation-export_43: 2706129153688644717
+      movlud animation-export_44: -4508870988171058562
+      movlud animation-export_45: 7657969835820431427
+      movlud animation-export_46: -5055339638736941112
+      movlud animation-export_47: -2348738441720656998
+      movlud animation-export_48: 8800882342163489701
+      movlud animation-export_49: 5641089063487003225
+      movlud animation-export_5: 424844850085340491
+      movlud animation-export_50: 1673786290514528077
+      movlud animation-export_51: -5772894177647821029
+      movlud animation-export_52: -3232487950841858967
+      movlud animation-export_53: -374844852219592780
+      movlud animation-export_54: -5204943685038834339
+      movlud animation-export_55: 4378623505391892983
+      movlud animation-export_56: 5385107896569807622
+      movlud animation-export_57: -6880019102444618674
+      movlud animation-export_58: -5573252151597810913
+      movlud animation-export_59: 4313647894956982895
+      movlud animation-export_6: 1589931101895963196
+      movlud animation-export_60: 1762280646444276351
+      movlud animation-export_61: -6009560078070074401
+      movlud animation-export_62: 2973261574830310841
+      movlud animation-export_63: 883441415968373541
+      movlud animation-export_64: 6200099634842301916
+      movlud animation-export_65: -481065638141429933
+      movlud animation-export_66: 9103627228475798115
+      movlud animation-export_67: 7113546249068074704
+      movlud animation-export_68: -1578214972519867569
+      movlud animation-export_69: 5385858344470259697
+      movlud animation-export_7: -400190574910668641
+      movlud animation-export_70: 7174793070328029333
+      movlud animation-export_71: 4552999265952952422
+      movlud animation-export_72: 6776148985962160889
+      movlud animation-export_73: -7441866624250561435
+      movlud animation-export_74: 1550252588008299662
+      movlud animation-export_75: 2141900872698320774
+      movlud animation-export_76: -7923589667340862308
+      movlud animation-export_77: -6586363769621579628
+      movlud animation-export_78: 3028755599703106890
+      movlud animation-export_79: -1141567623209234945
+      movlud animation-export_8: -1178683027476534118
+      movlud animation-export_80: 1983669520525656270
+      movlud animation-export_81: 1845519207025013000
+      movlud animation-export_82: 6016771967309906848
+      movlud animation-export_83: -4846815916146023668
+      movlud animation-export_84: -7733300709290090088
+      movlud animation-export_85: -8098666115913557059
+      movlud animation-export_86: -4532353337100529513
+      movlud animation-export_87: 4534222635152589281
+      movlud animation-export_88: -2429464380887398904
+      movlud animation-export_89: 8216415105200589221
+      movlud animation-export_9: 5607573041871674358
+      movlud animation-export_90: 8436075412545592504
+      movlud animation-export_91: 852357805780696305
+      movlud animation-export_92: -8173238253543895227
+      movlud animation-export_93: -2587115516655430551
+      movlud animation-export_94: -4228966059194902007
+      movlud animation-export_95: 6239902893576362288
+      movlud animation-export_96: 2203283900220811003
+      movlud animation-export_97: 4598103879232063227
+      movlud animation-export_98: 7813144932649038282
+      movlud animation-export_99: -7277590826093300545
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

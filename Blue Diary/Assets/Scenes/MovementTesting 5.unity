@@ -51952,6 +51952,7 @@ MonoBehaviour:
   levelindex: 1
   dashSlider: {fileID: 7547358876532137525}
   playerMovement: {fileID: 0}
+  circleTransition: {fileID: 0}
 --- !u!1 &1790236143
 GameObject:
   m_ObjectHideFlags: 0
@@ -54461,6 +54462,8 @@ MonoBehaviour:
   canMove: 0
   carryingPoint: {fileID: 0}
   carryingObject: {fileID: 0}
+  weapon: {fileID: 0}
+  canShoot: 0
 --- !u!50 &1860467742
 Rigidbody2D:
   serializedVersion: 5
@@ -75056,6 +75059,14 @@ MonoBehaviour:
   fireRate: 1
   bullet: {fileID: 8410999551478810713, guid: d78f032304c182e4f8f15bd92332ed22, type: 3}
   bulletParent: {fileID: 4809585163328505049}
+  animator: {fileID: 0}
+  health: 200
+  shake: {fileID: 0}
+  cameraShake: {fileID: 0}
+  followHorizontally: 0
+  followVertically: 0
+  refPos: {x: 0, y: 0, z: 0}
+  isActive: 0
 --- !u!222 &3573076387959048879
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -75424,6 +75435,14 @@ MonoBehaviour:
   fireRate: 1
   bullet: {fileID: 2958211743517958317, guid: 0851010579d73ad4c8d6def2c4ab23f0, type: 3}
   bulletParent: {fileID: 1789181357656744766}
+  animator: {fileID: 0}
+  health: 200
+  shake: {fileID: 0}
+  cameraShake: {fileID: 0}
+  followHorizontally: 0
+  followVertically: 0
+  refPos: {x: 0, y: 0, z: 0}
+  isActive: 0
 --- !u!114 &4404947288741219241
 MonoBehaviour:
   m_ObjectHideFlags: 0
